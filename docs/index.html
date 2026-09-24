@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>能源电力 RSS 订阅中心</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 24px 80px; background: #0f1115; color: #e6e8ee;
+         font: 15px/1.7 -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; }
+  .wrap { max-width: 1000px; margin: 0 auto; }
+  h1 { font-size: 26px; margin: 0 0 6px; }
+  .sub { color: #8b93a7; margin-bottom: 26px; }
+  h2 { font-size: 14px; color: #7f8aa3; font-weight: 600; letter-spacing: .08em;
+       margin: 34px 0 12px; text-transform: uppercase; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+  .card { background: #171a21; border: 1px solid #242a35; border-radius: 12px; padding: 16px 18px; }
+  .t { font-weight: 600; margin-bottom: 6px; }
+  .d { color: #9aa3b8; font-size: 13px; margin-bottom: 12px; }
+  code { display: block; background: #0d0f13; border: 1px solid #222834; border-radius: 6px;
+         padding: 8px 10px; font-size: 12px; color: #7fd4a8; overflow-wrap: anywhere;
+         font-family: ui-monospace, Consolas, monospace; }
+  .row { display: flex; gap: 8px; margin-top: 12px; }
+  .btn { display: inline-block; padding: 7px 12px; border-radius: 8px; text-decoration: none;
+         font-size: 13px; border: 1px solid #2c3444; color: #cfd6e6; }
+  .btn.primary { background: #2f6bff; border-color: #2f6bff; color: #fff; }
+  .btn:hover { opacity: .88; }
+  .warn { background: #3a2a12; border: 1px solid #6b4a12; color: #ffd08a;
+          padding: 12px 14px; border-radius: 10px; }
+  .how { background: #14181f; border: 1px solid #242a35; border-radius: 12px;
+         padding: 16px 20px; color: #b7bfd2; }
+  .how b { color: #e6e8ee; }
+  .st { color: #7f8aa3; font-size: 12px; margin-top: 9px; }
+  .st.bad { color: #ffb05c; }
+  a { color: #7fb2ff; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>能源电力 RSS 订阅中心</h1>
+<div class="sub">共 10 个源 · GitHub Actions 定时抓取 · 点按钮即可加入 Inoreader</div>
+<p class="warn">当前是占位地址。把仓库推到 GitHub 并跑过一次 Actions 之后, 这里的链接会自动换成你自己的地址。</p>
+<div class="how"><b>最快的一次性导入:</b> 下载 <a href="subscribe.opml">subscribe.opml</a>, 在 Inoreader 里进 <b>设置 → 导入 → 从文件</b>, 一次把全部源加进去。</div>
+<h2>国家能源局</h2>
+<div class="grid">
+<div class="card"><div class="t">国家能源局 · 通知</div><div class="d">国家能源局「通知」栏目, 含行业标准制修订计划等文件。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-tongzhi.xml</code><div class="st">最新一条 2026-09-22 11:35 · 60 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fnea-tongzhi.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-tongzhi.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+<div class="card"><div class="t">国家能源局 · 公告</div><div class="d">国家能源局「公告」栏目, 含新能源建档立卡、数据发布等。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-gonggao.xml</code><div class="st">最新一条 2026-09-23 11:17 · 60 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fnea-gonggao.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-gonggao.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+<div class="card"><div class="t">国家能源局 · 能源要闻</div><div class="d">国家能源局「能源要闻」, 条目自带摘要, 适合快速浏览。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-yaowen.xml</code><div class="st">最新一条 2026-09-24 10:40 · 60 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fnea-yaowen.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-yaowen.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+</div>
+<h2>学术期刊</h2>
+<div class="grid">
+<div class="card"><div class="t">中国电机工程学报 · 最新目录</div><div class="d">知网 RSS 取回后重新封装。含标题、作者、摘要, 随网络首发滚动更新。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/zgdc.xml</code><div class="st">最新一条 2026-09-23 16:00 · 20 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fzgdc.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/zgdc.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+<div class="card"><div class="t">电网技术 · 最新目录</div><div class="d">知网 RSS 取回后重新封装。注意 www.dwjs.com.cn 这个官网域名已经解析不出来, 别再用。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/dwjs.xml</code><div class="st">最新一条 2026-09-23 16:00 · 20 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fdwjs.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/dwjs.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+</div>
+<h2>南方电网</h2>
+<div class="grid">
+<div class="card"><div class="t">南方电网 · 公司要闻</div><div class="d">南方电网官网「公司要闻」, 可替代公众号「南网50Hz」的官方口径内容。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-yaowen.xml</code><div class="st">最新一条 2026-09-24 00:00 · 20 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fcsg-yaowen.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-yaowen.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+<div class="card"><div class="t">南方电网 · 一线传真</div><div class="d">南方电网官网「一线传真」, 偏基层、工程现场与具体实践。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-yixian.xml</code><div class="st">最新一条 2026-09-22 00:00 · 20 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fcsg-yixian.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-yixian.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+<div class="card"><div class="t">南方电网 · 媒体关注</div><div class="d">人民日报、央视、新华社等媒体对南方电网的报道汇总。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-meiti.xml</code><div class="st">最新一条 2026-09-18 00:00 · 20 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fcsg-meiti.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-meiti.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+</div>
+<h2>北极星电力网</h2>
+<div class="grid">
+<div class="card"><div class="t">北极星 · 输配电</div><div class="d">北极星输配电频道。电网侧政策、招标、工程动态。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/bjx-shupeidian.xml</code><div class="st">最新一条 2026-09-24 00:00 · 60 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fbjx-shupeidian.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/bjx-shupeidian.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+<div class="card"><div class="t">北极星 · 综合要闻</div><div class="d">北极星首页当日要闻汇总。条目多、更新快, 适合当行业雷达。</div><code>https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/bjx-yaowen.xml</code><div class="st">最新一条 2026-09-24 00:00 · 60 条</div><div class="row"><a class="btn primary" href="https://www.inoreader.com/?add_feed=https%3A%2F%2FYOUR-GITHUB-NAME.github.io%2Fenergy-rss%2Ffeeds%2Fbjx-yaowen.xml" target="_blank" rel="noopener">在 Inoreader 订阅</a><a class="btn" href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/bjx-yaowen.xml" target="_blank" rel="noopener">看 XML</a></div></div>
+</div>
+</div>
+</body>
+</html>

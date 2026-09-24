@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>电网技术 · 最新目录</title>
+    <link>http://rss.cnki.net/grid20/rss.aspx?Journal=DWJS&amp;Virtual=grid20</link>
+    <description>知网 RSS 取回后重新封装。注意 www.dwjs.com.cn 这个官网域名已经解析不出来, 别再用。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 23 Sep 2026 16:00:00 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+    <generator>energy-rss</generator>
+    <ttl>60</ttl>
+    <atom:link href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/dwjs.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>基于空间磁场传感阵列的电抗器匝间故障定位策略研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GohXuR1_lRr9RWrh-Gj3eG-tBvir6QOf4lue5RN5YZENuplsNzXOX4Msa6_SIHW46p0u90Zd57AHR1dwoW2j-fcherZCdB_rIQcxZgrGJRAwM8iSpU6fjo6KL6IF-GGk5yjWicPCoZi8lSKrkMsZJJ4k0leR9F-Vz2Fq8B2ApVIyQ==</link>
+      <guid isPermaLink="false">cnki-77dcf2e6201d231b2d35824900268468e5a09873</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>邓祥力;谭文斌;曾平;周德生;杜炤鑫;</dc:creator>
+      <description><![CDATA[电抗器匝间短路是导致其运行事故的主要原因，且目前缺乏对绕组故障高效、准确的定位方法。该文提出一种基于空间磁场变化实现电抗器匝间短路判别与定位的方法。首先，建立电抗器场-路耦合解析模型，分析匝间短路故障后空间漏磁场的畸变特征；其次，提出直线型磁场传感阵列的在线布置方案，利用电抗器内侧多个观测点上轴向磁感应强度变化量的相对大小确定故障所在高度区，并针对边界区域设置补充判别规则；然后，以径向磁感应强度变...]]></description>
+    </item>
+    <item>
+      <title>利用逆变器自身LCL滤波器响应特征进行电网故障类型识别的可行性分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GoAU9Lz1Vi3dFeTKvCtOdQUnRSz1v6nuZcodWDl3m4591RFyTOOlJ9Et3ufpE3f-wqyKliJEcqBstHuRTsvToBXakonhnS6rqUsicaWsoK8GQGKPP69UGDck-6gWGhbSbX2dvZetmxtuYIcCSCs_XK4dpif8KoJM9_mU-VpE7LxvA==</link>
+      <guid isPermaLink="false">cnki-e55855ea50244a7339b7994019ac4829c6ae8227</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>刘江;徐卉霖;熊尉辰;闫吉飞;宋国兵;</dc:creator>
+      <description><![CDATA[逆变型电源广泛接入的新型电力系统故障特征不同于同步发电机主导的传统电力系统，现有电网故障类型识别方法忽略逆变器自身携带的特征信息。因此，该文提出一种利用逆变器LCL滤波器响应特征识别电网故障类型的新思路。依据逆变器响应过程的阶段性特征，采用三点插值快速傅里叶变换(three-point interpolated fast Fourier transform，TP-IpFFT)方法提取故障初瞬阶段逆...]]></description>
+    </item>
+    <item>
+      <title>支撑算电协同的异构数据中心深度学习任务两阶段能耗预测方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrElPkqgU8hoxZwUYdF8pvg7qJYnfBCTg-dm7b_N27BknndpSNCI2b5JnIlWExZaESzVPMUq15Q--yTSomv6ZGcq8p-36maYmDtrGnX6S3jv3FGx1VWUozevy8MuXMMwikDzE4oxJ3kDmEodaD-dOG7_4s54mJKyUXHY-35YUQyNQ==</link>
+      <guid isPermaLink="false">cnki-559a6eaf35e7bafe3dac7f08ca3d1ce1a2ef032d</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>范俊秋;刘明顺;王明阳;马覃峰;吴启迪;安甦;黎灿兵;</dc:creator>
+      <description><![CDATA[随着深度学习应用的爆发式增长，数据中心正成为电力系统中重要的可调负荷。然而，现有数据中心的能耗预测多停留在机架级、服务器级的粗粒度层面，缺乏对深度学习任务能耗的事先预测与在线校准手段，难以开展精细化的算电协同调度。因此，提出一种面向异构数据中心深度学习训练任务的两阶段能耗预测方法：第一阶段基于历史数据，构建以任务信息为输入的非线性能耗评估模型，按图形处理器(graphics processing ...]]></description>
+    </item>
+    <item>
+      <title>基于负序阻抗重构的构网型逆变器送出线路不对称故障距离保护方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9Gqa5hJKtovLWKo05PHo2oVqG3_QwYKmn9H6KXxyf4W4aOMSdMyqB9uPepXrriN1MvKgPCjrxkBgv2V3J5TWGIKxHjZlamdbsDdMcUmDGeeWNuV1988CKhcW9E5jxMzdoiXqdRgqyjHGhoOs9pVLln4zzs-xvZzOMBo5Srbte0bOcA==</link>
+      <guid isPermaLink="false">cnki-f5172c57ab5e7ad0e912b3787c87cbbe1611a613</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>武梦涵;郑晓冬;韩正谦;晁晨栩;游馥铭;丁露露;刘中平;李鹏;</dc:creator>
+      <description><![CDATA[针对构网型逆变器送出线路在不对称故障下距离保护适应性下降的问题，该文提出一种基于负序阻抗重构的距离保护方法。首先，分析了不对称故障下附加阻抗对构网型逆变器侧保护测量阻抗偏移的影响机理。其次，分别推导两相短路、单相接地和两相接地故障下附加阻抗角的计算方法，并基于阻抗几何关系构建故障距离计算公式。在此基础上，提出适用于构网型逆变器的负序阻抗重构策略，通过自适应调节负序虚拟阻抗的相角和幅值，使构网型逆变...]]></description>
+    </item>
+    <item>
+      <title>基于电流相位补偿的新能源送出线路相间短路故障方向元件</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GpJ-2Xc7bnEUB8xYLYtelO-lTk0OmdGUk95md8E6vNRzguckfE4Fhrt8hNi3jodA8tWsVUYwCWXbzIodc8bhcgcFTkAqyzgnewf3Z_Hm6iVA-npYtXOkMdqoV61zWQAZdBPL24Ksij213cVSVgPlnuBO6Up5FR3dInajMCS08PSuQ==</link>
+      <guid isPermaLink="false">cnki-b9a626dcf2db8c58e2115c57e5e211612718a5b4</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>王兴国;柳焕章;马超;刘阳;金龙;</dc:creator>
+      <description><![CDATA[新能源交流送出线路出口发生相间故障时，新能源电源提供的短路电流受其控制响应影响，负序电流幅值大幅减小，故障前后电源等值阻抗变化显著，导致传统方向元件失效，相间距离保护无法正确动作。提出了利用电流相位补偿识别新能源送出线路相间故障方向的元件，分析了线路正、反向故障时突变量相间电压和相间电流的相位差异，利用负荷电流补偿相间电流，基于补偿后的相间电流与突变量相间电压构造了故障方向识别判据，在阻抗平面建立...]]></description>
+    </item>
+    <item>
+      <title>弱电网下异构逆变器并联系统线性周期时变建模分析及自适应稳定调控策略</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GraqTogbEqeRbQt6sLSC-GUk6PQVMWl0ykvgoS-f6HssOxO6PBgQPAPblGKCsnRyceHyKo6kgN4Jq0MkT1BviSE2OQreaziNXa1RCjmF49v00w0FMShajDz3VaRboAi5sbXM8nBfFwid6P_JNxAnBk1fYem9K5AnBPT-2BaIsPYVg==</link>
+      <guid isPermaLink="false">cnki-21adfc6208796ffc1729143dec468ccd49524e24</guid>
+      <pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>李文超;徐海亮;葛平娟;</dc:creator>
+      <description><![CDATA[弱电网工况下，由跟网型与构网型逆变器组成的异构新能源并网系统易发生失稳振荡，威胁电力系统运行安全。 对此，建立了异构逆变器并联系统的线性周期时变模型，将分析范围拓展至周期时变分量；通过求解系统的Floquet特征指数，深入剖析了关键致稳因子对系统稳定性的影响规律，精确刻画了系统在不同短路比下的稳定运行边界；进一步提出了一种基于模型预测的跟/构网模式自适应协同控制策略。最后，通过仿真与实验验证了理...]]></description>
+    </item>
+    <item>
+      <title>基于可行域降维解析的配-微电网非迭代协同调度</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrIi13Hnt5UVijSgs2bGVhkzW19bu4v-hZMXfh343qXQc4xj0zIJwKRNCkwhuyx1C24kfWZK5Js8m5d7Mq-UjC-k1GXczqIpEcoL_eRzccQX-74XJbYo9eKqLU0n-YxCw6PZyT-5fb0yDIpInP6MzcBO53zcC7MpEDVEtyL8Ay3Dw==</link>
+      <guid isPermaLink="false">cnki-27afa1335ea8b3d3a5e9e851df9fd03a510393bb</guid>
+      <pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>齐缘;周玮;陈波;伍思宇;丛宇;吕泉;</dc:creator>
+      <description><![CDATA[针对现有配-微电网协同优化求解方法难以兼顾多主体 信息隐私保护和模型求解效率问题，本文提出了一种基于可行域降维解析的配-微电网非迭代协同调度方法。将微电网高维运行可行集投影至公共耦合点有功功率时序序列空间，构建包含网络运行约束与跨时段耦合约束的可行域解析模型，提出融合分层候选加速策略的边界外逼近方法；在此基础上，基于数值与梯度联合监督的输入凸神经网络构建微电网调度成本等值模型；将微电网可行域与成...]]></description>
+    </item>
+    <item>
+      <title>计及风光低互补运行风险的混合储能容量优化配置</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GoQX3GgJFdhZ2_Vh7exaA6htGArL4i5lqi9ln4h_Vkptm6ZEkms0LhlLruXUg6an3jfWp88wWER4mS8cKwQZJ4IYtxuyDB_KW6L4m1TkHeAnWfnsDS15a-heGOaeGOJGlTR0VOG4-51UBvKUTYxflNdWTuFEu8HTpSvzWeRK8W4dw==</link>
+      <guid isPermaLink="false">cnki-af4c240762ece55bb1c769205ff4aeda4fb1a0a3</guid>
+      <pubDate>Sun, 20 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>刘增源;解超;高文森;尹纯亚;张高航;李凤婷;王云龙;</dc:creator>
+      <description><![CDATA[大型风光基地不同互补运行状态下的功率和能量调节需求存在差异，现有混合储能容量配置方法对低互补场景的运行风险及不同场景下的极值容量需求考虑不足，难以反映场景发生概率与运行后果的共同影响，并可能遗漏不同储能类型的极值容量需求。针对上述问题，提出一种计及风光低互补运行风险的混合储能容量优化配置方法。首先，基于典型运行场景，综合风光互补缺失程度及功率-能量调节需求构建低互补运行后果指标，并结合场景概率量化...]]></description>
+    </item>
+    <item>
+      <title>海上风电经二极管整流-模块化多电平混合换流器送出系统的次/超同步振荡分析及稳定性提升</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrilQ8jsjb4SVm760A5COeqE7W3aGQ9CTX2Oc7VNko4gc7UF9xrnuNTZgIjdig6WB94IdSKVnM0AKaon_w9aw8UkSnLfqCwJfrQ4kouf9kPkY7b_6vwn4ltL1D6CkB_uN1vGHeB1VUp_WaYzeGHVoKE03sxv_MR9iYQNhWRCeGTvQ==</link>
+      <guid isPermaLink="false">cnki-7cf4f690fc556ab3c2c786d0bb31bf86ab960c63</guid>
+      <pubDate>Sun, 20 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>年珩;张琪;马骏超;杨磊;刘佳宁;黄旭东;何震;胡彬;</dc:creator>
+      <description><![CDATA[二极管整流单元(diode rectifier unit， DRU)和模块化多电平换流器(modular multilevel converter， MMC)混联的海上换流器兼具轻型化与控制灵活性，但其高阶、多环路交叠的小信号特性增加了阻抗特性分析和振荡风险因子溯源的难度，制约了阻抗重塑策略的设计。为此，本文提出了基于阻抗解构与模型降阶的混合换流器振荡风险因子溯源方法：分离DRU与MMC的阻抗分量...]]></description>
+    </item>
+    <item>
+      <title>计及非线性环节频率安全约束的柔直送端电网极限渗透率评估</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrIwFRFopLz8riEe7_OVqmGYVfy71aERLRuzASic4NDPIJDlwJK9fQZHDgFQsgOHNDK_0jbaFAiHcacFccHe_fGqzq_CBPm6zlPcL6ltcm7Be6c5jvSTuTkNB_liceQLx_AIJjF8CCliLV-WjCUraIOUv_6I66MPa4ipBH15rlxBQ==</link>
+      <guid isPermaLink="false">cnki-9137b624036c0d7876308b8306400e446f541d0e</guid>
+      <pubDate>Thu, 17 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>刘铖;张海涵;张程铭;华文;管敏渊;张昕洋;</dc:creator>
+      <description><![CDATA[针对多元异质资源经柔性直流送出条件下送端电网频率动态复杂、新能源接纳边界难以确定的问题，构建包含火 电、风电、光伏、储能及柔直通道的非线性频率响应模型，统一考虑频率死区、动态响应差异及功率限幅。根据调频资源动作状态变化划分事件区间，并对各分段内总有效有功支撑进行局部近似，建立新能源渗透率参数化的分段半解析频率响应模型。在此基础上，基于扰动后稳态频率与新能源渗透率的局部变化关系构建稳态频率接纳裕度...]]></description>
+    </item>
+    <item>
+      <title>基于傅里叶-因果物理信息神经网络的电-气综合能源系统最优能流计算</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GouHm8_r8t50zSfCx23y-8dL5EmvP8EJjSCzEMlMCtDYVHT9cAQmYDF_jfi2v2ZsWp63ok5pHWj4HCTOc7H0lLL9S5MC_eoq5NzE1yHrtZitIHpR5wHrhK6tK6w_tHYrnDWtyjHEkAJt8fELHBT25m_WYPOHIpTpWo1rK6ZRF56BQ==</link>
+      <guid isPermaLink="false">cnki-8d1bf781ff9811f90769a122775c6395b2c59ca4</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>杨秀;高扬楠;崔鑫;田英杰;李凡;</dc:creator>
+      <description><![CDATA[针对电-气综合能源系统最优能流计算中，天然气网络稳态模型难以表征气网动态特性，而动态模型中传统数值型求解面临计算效率与数值稳定性的双重挑战、数据模型驱动的代理模型无物理约束的“黑盒”拟合等问题，本文提出了一种基于傅里叶-因果物理信息神经网络的气网滚动代理模型(Fourier-Causal Physics-Informed Neural Networks， FC-PINN)。首先，提出基于气网最大时...]]></description>
+    </item>
+    <item>
+      <title>考虑能量流-物质流耦合的化工园区绿电绿氢协同调度</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqFLzcxFBwtY7mKAAcRe2PLuB_vuTOZ2g-TjTK_EOU_I5mgzrMlVjJGvtHaO-RsxZF2a9RT-kj93rjQmdBWM8DP9Zdc-IfdzTtvnfcK9RTbYoo7y81PVJGbG3Tk2sqtvCKV19esmAVSWY88nFazjRCtVXyhGn8cKWphQWrHhcW_7Q==</link>
+      <guid isPermaLink="false">cnki-10c3a51f0b40d3c242455b75d63a23ba68de7668</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>杨程禄;王成福;姚民伟;杨艳红;张玉敏;王勇;董晓明;杨明;</dc:creator>
+      <description><![CDATA[对于绿电绿氢主导的化工园区，其面临着生产稳定性与绿电供能波动性之间的协调问题。对此，提出一种考虑电氢能量流-物质流耦合的化工园区绿电绿氢协同优化调度方法。首先，提出一种电解槽双层阵列轮值方法，根据电解槽寿命衰减因子与启停成本重新分配制氢功率，提升系统制氢性能；其次，建立电氢混合储能多时间尺度运行模型，利用模型预测控制方法实现对电氢储能和电解槽日内运行状态的动态优化；最后，以条件风险价值量化风光绿电...]]></description>
+    </item>
+    <item>
+      <title>融合特征提取与误差修正的海上风电短期功率两阶段预测模型</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GohM3kqO0yEwHb1gdy5dU3F1t84INyi-vSqwpa3PE3MhlP4xenN5Yd8obTahFanDd7a6Ig1Z2HCrE0dF-5KB1xbXVWNISWNa_7x906odW9LlZ2y-tzSa2TtMDtk-5Uv3l2HYSiApfuImoDFBQ4wAL2XFBjPHkIckzynwXshjtlnEw==</link>
+      <guid isPermaLink="false">cnki-61fbc8ae4d9e1519b1908a7d4cabf1aea839a3e9</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>邢志鹏;黄秋璇;唐靖泊;刘明波;</dc:creator>
+      <description><![CDATA[为提高海上风电短期功率预测精度，文章提出了一种混合预测-修正两阶段模型。在第一阶段初始预测中，采用长短期记忆网络提取数值天气预报数据的基础时序特征，引入双依赖交互块实现特征的跨时间和通道自适应分解与增强，再将提取的深度时序特征输入极端梯度提升回归器，得到初始预测功率。在第二阶段误差修正中，利用门控循环单元学习初始功率误差序列的时序演化规律，并嵌入混合扩张残差注意力块，通过多尺度扩张卷积捕获局部特征...]]></description>
+    </item>
+    <item>
+      <title>基于多智能体强化学习的准动态电-冷综合能源系统协同运行策略</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GoXRREdx5gmLFUpbahsN2CJWIk5-qGsb1lhzvmU9FaJqTw63nVlsFPkEBrlzRh5auAqlasrH6h7zskR9KfLe6PdnauJvf6jdX2CJ43zz5UJOdE2H76jXmdrjvMPyoIeya9Rapl_wVYZdSouRS5rZppmPOTw6d2lEP30YI1C8tiB6A==</link>
+      <guid isPermaLink="false">cnki-9820893bca7b965cc768d09c6d09afc8f05a8e2f</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>章艺馨;王子怡;郑杰辉;吴青华;</dc:creator>
+      <description><![CDATA[随着全球气候变暖问题日益加剧，提升电-冷综合能源系统运行的经济性与灵活性已成为亟需解决的问题。然而，冷网准动态偏微分方程结构复杂，难以有效嵌入传统优化运行框架中。同时，常用的求解算法在计算时效性和收敛稳定性等方面存在不足。针对这一问题，首先根据不同利益主体划分电-冷双智能体，将协同优化模型表述为部分可观测马尔可夫决策过程（partially observable markov decision p...]]></description>
+    </item>
+    <item>
+      <title>考虑抢修机制和风速阈值漂移的电力系统风灾故障预测预警方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrjbUK5WbPyArNUvugp_-LGeLSlXuQNOUoFaAua-wwNSqC3yrh-NonGSFdVsokndFtaBTAFiNnT8f8kBKi3CfaKNSEIfOoKGOb-j-Rt2Sou0eXYsdLeGmAQZKplJVUnTOWxh5CsogkqXxq3kibunWT0dko52pEnFYVb0EQYWsobNg==</link>
+      <guid isPermaLink="false">cnki-15e3a2650a25d1856c1d154de419c816c3d09c67</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>杨秀;吴润明;王磊;尹凡;</dc:creator>
+      <description><![CDATA[针对极端风灾下电网安全形势严峻，现有预测模型考虑的故障因素较为单一，缺乏气象、地理与电网多种因素对故障的影响且未量化故障抢修和历史累积损伤的问题，提出一种融合时空演化特征和抢修机制的CNN-LSTM-Attention风灾故障预测预警模型。首先，融合多源数据统一时空分辨率，利用CNN-LSTM-Attention提取故障空间关联，聚焦关键致灾时序特征，精准预测气象灾害；其次，模型内嵌抢修机制（时间...]]></description>
+    </item>
+    <item>
+      <title>计及结算耦合与尾部风险的虚拟电厂省间省内两级市场联合申报策略</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqtN9GDwo2jHuiMihiSE1a5H0nSI5irXclcurvkn9UduLB5G0aiGMuwwuKy0s72GYnN0An--cOnLkCkw1M_k6WovJigYm688r6AstbhO7AQ7vpfk2GV4NxI8Fk1rXwMm40yT_xP0qdpagvKqQAmDNBv2katCERVFrgqPI-ETa9j_w==</link>
+      <guid isPermaLink="false">cnki-a8c123a9e03ed381d0a2e9c57028f7e0655e3de1</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>蒋宇轩;平健;严正;李晓刚;杜非;刘福斌;</dc:creator>
+      <description><![CDATA[虚拟电厂(virtual power plant， VPP)参与省间省内两级市场有助于进一步利用需求侧资源灵活性潜力，满足不同省份对灵活调节能力的差异化需求。然而，在两级市场环境下，VPP不仅面临外部市场环境与内部聚合资源出力的多重不确定性，还需协调省内优先结算、省间有效响应量核定与偏差考核等耦合结算机制。为此，该文提出了计及结算耦合与尾部风险的VPP省间省内两级市场联合申报策略。首先，提出两级市...]]></description>
+    </item>
+    <item>
+      <title>基于电力-交通耦合网络的MESS与V2G灾后协同恢复策略</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrGMoKpmo17XfUjEqMLGPoNrQxhd5Sqp7wz2wny9y6txQV0a_vjIryWWIGCWRxTqMlp3yVve_s0QP1c19oiKnyhaP377_MfIbfqEg_w8KNSH7JK1qyGlaDM8cIb9R10XPS4BaCpOEkDsSq1fFQ3KlL-svMPGdEM81jJCZzSZ7MP2g==</link>
+      <guid isPermaLink="false">cnki-5398f82bd34da0e3c0492e43f03463a7aea0188b</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>方佳斌;贾燕冰;刘龙浩;李斌;</dc:creator>
+      <description><![CDATA[针对极端灾害后配电网恢复过程中交通条件受限、多类移动资源时空分布分散及协同调度困难等问题，提出一种基于电力–交通耦合网络的MESS与V2G灾后协同恢复策略。首先，构建考虑价格信号引导下EV出行与V2G响应的电力–交通耦合网络模型，刻画交通运行状态、充电站负荷分布与配电网供电能力之间的交互关系。其次，将道路拥堵费用与充电站动态服务费作为统一价格信号，实现交通拥堵状态与配电网容量约束向资源调度成本的映...]]></description>
+    </item>
+    <item>
+      <title>考虑移动储能意愿传递的多区域综合能源系统三层博弈优化调度</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqcxA7hdz0ZxKPbbnpjj3yYhY7u3EMpiL52okZUWBnw5EkcEYJgxwUC9aOV2iAqWgs9DL6DCkMKDPN6ZW1P4eO-slE-5ZqpNPENYgf4_vBImDnxLwvXcw3L0ifVc3gdEZkBL-7KHWIr_NqUKGgPe6vn-z2Zdrc9PGkb0n93aNMj3g==</link>
+      <guid isPermaLink="false">cnki-55379b3526946c1e5c7eb9ebb1085d313d7a2623</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>杨茂;杜茜;贾云彭;孙鹏;陈哲;</dc:creator>
+      <description><![CDATA[针对规模化移动储能接入下多区域综合能源系统（Multi-Regional Integrated Energy System，MRIES）中移动储能用户意愿受社会网络影响显著、多主体决策耦合复杂等问题，该文提出一种考虑移动储能用户意愿传递的MRIES三层博弈优化调度方法。首先，构建基于饱和激励预测的移动储能用户意愿动态响应模型，提出基于Hilbert-Schmidt独立性准则（Hilbert–Sch...]]></description>
+    </item>
+    <item>
+      <title>考虑碳普惠减排量核证的建筑产消者电-碳双层协同决策方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrJCOTV23yN8vsCqbHXa5AYiLGsP1confBvYuZlV_MLkHNhDo_pJFm3DfA3FJmvIikXm_JB3okLgfOQHJ80XkL1HNjmMqYBOq7ylycitjbSBrg3K8gfymrchcHHczF8IzGQerAJVHVO_AZFtp5oHkknmKSBrhCyF_JFjfb5EmczWw==</link>
+      <guid isPermaLink="false">cnki-7283d07451af0e35de9ac6003fc4dbbe13bea726</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>刘泽骏;余晓丹;靳小龙;贾宏杰;梁朔;穆云飞;张嘉睿;</dc:creator>
+      <description><![CDATA[建筑领域节能降碳对实现我国“双碳”目标具有重要意义。针对建筑产消者低碳用能减排量核证、来源追踪及内部碳责任结算不足的问题，该文提出一种考虑碳普惠减排量核证的建筑产消者电-碳双层协同决策方法。首先，构建面向建筑产消者低碳用能行为的减排量核证方法，以基线场景为参照并引入电网动态碳排放因子量化日累计净减排量，经保守折减后登记为碳普惠核证减排量(pu hui certified emission redu...]]></description>
+    </item>
+    <item>
+      <title>计及电动汽车负荷时空转移的配电网-充电站多主体调度运营策略</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqXQD0Z4_pH7yDgfFQfrnaJpigQ0PA5OjEaFizr2Qu0W1NEeWgw7nDyJ6toL-od2GQh_8dSoU3iWFZ0eJw2B68MH93usCy33HeDRd4WCixXkCeiY8dzSvIV0X-WCbWMe1yf7kocT97wt_DGNNQop3s2_91_58br5l6HpDisNO1omw==</link>
+      <guid isPermaLink="false">cnki-8abf6a5a39f230a556af2b8a41533200c4fbeb64</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>潘羿;胡俊杰;骈欣妍;陈影;</dc:creator>
+      <description><![CDATA[随着电动汽车保有量的不断提高，大规模电动汽车接入为提升配电网负荷均衡、促进分布式新能源消纳带来了新的机遇。通过电价引导能够实现电动汽车负荷时空转移，是挖掘电动汽车时空调节能力的有力手段。然而，现阶段缺乏对充电站定价策略与充电站负荷时空分布间映射关系的直接刻画，难以从配电网视角准确评估电动汽车支撑配电网运行潜力。为此，该文首先提出了一种电动汽车-充电站匹配特性建模方法，通过电动汽车空间移动-排队-充...]]></description>
+    </item>
+  </channel>
+</rss>

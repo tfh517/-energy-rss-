@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>能源电力订阅源</title>
+  </head>
+  <body>
+    <outline text="国家能源局" title="国家能源局">
+      <outline type="rss" text="国家能源局 · 通知" title="国家能源局 · 通知" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-tongzhi.xml" htmlUrl="https://www.nea.gov.cn/policy/tz.htm"/>
+      <outline type="rss" text="国家能源局 · 公告" title="国家能源局 · 公告" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-gonggao.xml" htmlUrl="https://www.nea.gov.cn/policy/gg.htm"/>
+      <outline type="rss" text="国家能源局 · 能源要闻" title="国家能源局 · 能源要闻" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/nea-yaowen.xml" htmlUrl="https://www.nea.gov.cn/xwzx/nyyw.htm"/>
+    </outline>
+    <outline text="学术期刊" title="学术期刊">
+      <outline type="rss" text="中国电机工程学报 · 最新目录" title="中国电机工程学报 · 最新目录" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/zgdc.xml" htmlUrl="http://ntps.epri.sgcc.com.cn/djgcxb/CN/home"/>
+      <outline type="rss" text="电网技术 · 最新目录" title="电网技术 · 最新目录" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/dwjs.xml" htmlUrl="http://rss.cnki.net/grid20/rss.aspx?Journal=DWJS&amp;Virtual=grid20"/>
+    </outline>
+    <outline text="南方电网" title="南方电网">
+      <outline type="rss" text="南方电网 · 公司要闻" title="南方电网 · 公司要闻" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-yaowen.xml" htmlUrl="https://www.csg.cn/xwzx/"/>
+      <outline type="rss" text="南方电网 · 一线传真" title="南方电网 · 一线传真" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-yixian.xml" htmlUrl="https://www.csg.cn/xwzx/"/>
+      <outline type="rss" text="南方电网 · 媒体关注" title="南方电网 · 媒体关注" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/csg-meiti.xml" htmlUrl="https://www.csg.cn/xwzx/"/>
+    </outline>
+    <outline text="北极星电力网" title="北极星电力网">
+      <outline type="rss" text="北极星 · 输配电" title="北极星 · 输配电" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/bjx-shupeidian.xml" htmlUrl="https://shupeidian.bjx.com.cn/"/>
+      <outline type="rss" text="北极星 · 综合要闻" title="北极星 · 综合要闻" xmlUrl="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/bjx-yaowen.xml" htmlUrl="https://www.bjx.com.cn/"/>
+    </outline>
+  </body>
+</opml>

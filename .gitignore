@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# 本地抓取时的临时产物
+*.log
+tmp/

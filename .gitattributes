@@ -1,0 +1,7 @@
+# 让仓库里的文本文件统一用 LF, 避免 Windows 本地跑和 Linux 上 Actions 跑
+# 因为换行符不同, 每次生成都产生一个「无实质变化」的提交。
+* text=auto eol=lf
+
+# 批处理必须是 CRLF, 否则 cmd.exe 解析 goto / call :label 会出问题
+*.bat text eol=crlf
+*.cmd text eol=crlf

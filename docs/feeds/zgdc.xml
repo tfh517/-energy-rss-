@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>中国电机工程学报 · 最新目录</title>
+    <link>http://ntps.epri.sgcc.com.cn/djgcxb/CN/home</link>
+    <description>知网 RSS 取回后重新封装。含标题、作者、摘要, 随网络首发滚动更新。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 23 Sep 2026 16:00:00 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+    <generator>energy-rss</generator>
+    <ttl>60</ttl>
+    <atom:link href="https://YOUR-GITHUB-NAME.github.io/energy-rss/feeds/zgdc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>考虑DSOGI提取环节的逆变型电源故障电流解析方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqoKJvqWdTlxHf8ndxcwobToWFAq4qrXWFQfwUUXYw6Cfp5DIVqaeLSGfPZJN_OFj8XSjX7Gnr6HtVCCHQGRpaMsCvyhkZ9bkOKeavudT3FzipjlNAPEi-eCG2NDsHWG0qnFDCb97XWCKZsTrb7EIHhKN_e1FRqmkMsUkTzWr1iVg==</link>
+      <guid isPermaLink="false">cnki-30ae9583d0a7d90d141e5cd8879f597689d2bf1f</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>王郡成;杨国生;王聪博;王增平;王彤;徐潜;余越;</dc:creator>
+      <description><![CDATA[为适应电网不对称运行需求，采用正负序解耦控制（decoupled sequence control，DSC）的逆变型电源日益增多。然而，正负序解耦控制中的双二阶广义积分器（double second-order generalized integrator，DSOGI）提取模块导致控制环节呈现高阶且耦合的特征。为了精准刻画故障特征，本文提出了一种计及DSOGI提取过程的逆变型电源故障电流解析方法。...]]></description>
+    </item>
+    <item>
+      <title>计及虚拟储能系统与余热回收热水器协同的南极科考站分布鲁棒低碳运行策略</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrUtRMzuEcH6-Wzri9RHRrUfvhnt3hBTyKyEiH55MzpKn5-fywLeHvkVcKVIfQqT0N4h1de-Y6bIHUVcRNO9E7vnlCI8G8B7ZtpP8FOgOEWt0HkfLhiMh85NYjs-iFtyZBIdLSRg-PIt1ZyFWg7gb9xlt26fIVWwD6Chu8Jhtjl4Q==</link>
+      <guid isPermaLink="false">cnki-56f784029ddb50abf865ad3fa881d3d1b79925d9</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>刘含月;李泽宁;薛屹洵;常馨月;许嘉禾;孙宏斌;</dc:creator>
+      <description><![CDATA[为降低南极科考站（Antarctic Research Station， ARS）运行过程中的碳排放，本文提出一种计及虚拟储能系统与余热回收热水器协同的南极科考站分布鲁棒低碳运行策略。首先，考虑到极地环境下风机覆冰与光伏覆雪导致的出力衰减，基于南极真实气象数据集构建了ARS风光氢储多能互补模型；其次，基于ARS建筑围护结构与热水器水箱的储热特性，实现了面向ARS的虚拟储能系统与余热回收热水器协同运...]]></description>
+    </item>
+    <item>
+      <title>不依赖风速信息的变速风机全工况减载自适应切换功率跟踪控制</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrJqWMXBGlAsJpAqxRPAwuD4eyZG48hpndzaA4Z2vDoXZ-MNn2c-KwEG2ueFpUpjCUyQZ-L-RPdTVTlPkUCBURY_0sL0WQ36o-m7DPzANprarVF3RjRvriskZ3yb-OUIptleqLvM4jQV0U29CeGBx3PdxyRHNa_DFlzk0xbS-VDjA==</link>
+      <guid isPermaLink="false">cnki-a04bf13ba1a6e70bd544243f6c9996d3e07132b8</guid>
+      <pubDate>Tue, 22 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>姜超;付小标;周书宇;孙正龙;王日俊;曹志冲;杨冬锋;</dc:creator>
+      <description><![CDATA[变速风机需要通过调节桨距角实现高风速下的减载运行，针对桨距角控制存在过度依赖可靠性偏低的风速测量环节、冗余的风速判断和切换环节、响应电网频率变化时效果不佳等问题，提出了无需风速信息介入的变速风机全工况减载自适应切换功率跟踪控制策略。首先，基于变速风机的典型运行特性分析了其超速与变桨协调的全工况减载原理，并阐明了减载模式与非减载模式下风机运行区间的转移关系；其次，参考变速风机典型运行工况的控制思路，...]]></description>
+    </item>
+    <item>
+      <title>融合异构语义知识的低惯量电网稳态运行下频率安全在线智能分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GpTH-OMDOlTRfAXd0xpe2aeLxYIYuJIEQbxNQzs_Zhj_UM_t1WnJr0mqcaNsFzvD2dGtCq2Y-eT9FInFguHxd7KawIPf78ylE4hH16P4EIVzXvwnI5Wp4NNyWVswHyjBifznLlLHMqQkNshksVjV-LpvCiUkPZsPNWDABIPsEkkZQ==</link>
+      <guid isPermaLink="false">cnki-cd7889b850d424d449a43dd0e7cc15f220d843e6</guid>
+      <pubDate>Tue, 22 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>兰宇田;张雨润;姚伟;韦善阳;文劲宇;</dc:creator>
+      <description><![CDATA[随着新能源和电力电子设备的广泛接入，电网惯量水平被不断削弱，频率越限风险显著增加。为保证系统安全，有必要在稳态运行阶段对海量预想扰动进行快速评估和风险预警。现有数据-知识融合方法虽具备较强非线性映射能力，但主要依赖可量化的结构化知识，难以充分刻画低惯量电网中惯量、阻尼等因素对频率响应特性的定量与定性的复杂耦合影响。针对上述问题，本文提出一种融合异构语义知识的低惯量电网稳态运行阶段频率安全智能评估方...]]></description>
+    </item>
+    <item>
+      <title>直流电压控制下考虑卸荷电路与LVRT切换的VSG故障电流混合计算方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqbIbO-VPvHsEnMCAFzH25ZgKcuZj5Q686yzTEUQZIeKoygt2UZS_jYb2bmtngqpWQgXMCwiusYsSI-HgZE2HLt6No7lYCqfwwdYkItEe1fHeiSottJdEoXqjmHtv-MRUzsFc4-0msoNN5Ld85xFdwIvF8fhD4k1rehTSGcSfFnMw==</link>
+      <guid isPermaLink="false">cnki-f69d22698c6d79bbf5fe3fa6cb6a2adf3aa8f449</guid>
+      <pubDate>Tue, 22 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>崔杨;葛福轩;程雪婷;王硕;戴汉扬;</dc:creator>
+      <description><![CDATA[针对虚拟同步发电机(virtual synchronous generator， VSG)在电网故障期间交直流侧功率不平衡所引发的直流电压控制与卸荷电路动作，及其对故障电流长时间尺度演变特性的深刻影响，现有计算方法普遍忽略直流电压控制动态，且难以兼顾长过程仿真精度与效率。为此，本文提出一种考虑卸荷电路与低电压穿越(low-voltage ride-through， LVRT)切换的VSG故障电流混...]]></description>
+    </item>
+    <item>
+      <title>500kV双级励磁标准电压互感器研制及误差特性分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9Goml4lvlC-KKaBKuvlF4qZAKQKDtReJdEyYDEUULX4p_YUd6mrAkFJIOlclPGYdF4OLpQ0HJFQUAK3GvY0xsH84GBvFuiHFoTzg5HRjb11BcoTjNC9xE6pmB-BbHgqXzefZey9k8Gur8oDRAwa9SEisuy0wuZQn50G92EsCoyQ7Tw==</link>
+      <guid isPermaLink="false">cnki-2ee53e0d397f5e7480165256597810faf1a4cac0</guid>
+      <pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>刘浩;周峰;何莹辉;王健;古雄;陈立学;</dc:creator>
+      <description><![CDATA[本文针对传统双级电压互感器受限于绕组间绝缘而难以实现高电压等级的问题，提出一种绕组分离对称式500kV双级励磁电压互感器新结构。通过将励磁绕组与比例绕组分离布置、对称排列，使二者相邻处为等电位，显著降低了绝缘设计难度，从而将双级互感器的电压等级从10kV提升至500kV。深入分析该结构下的电磁耦合机理，通过空间结构重构，将制约传统双级互感器精度的主导误差源从难以消除的漏磁与分布电容效应，转变为可精...]]></description>
+    </item>
+    <item>
+      <title>基于领域自适应的无刷直流电机匝间短路跨工况实时诊断方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9Goml4lvlC-KKaBKuvlF4qZAKQKDtReJdEyYDEUULX4p_YUd6mrAkFJIYoRoZNhA3O1EYtf0QPZ5UNN_qP7zCya5A_5LQ-ZsGUvagvCIxqVxTU4i_H9MqFGLZ1Rsv2DsrjXLNEqkHfasKssgmmtXnfEW8Ar1SD8zj60ll4S339U7WA==</link>
+      <guid isPermaLink="false">cnki-0cfc59ab8774578fa34bc3e6e349ebd9f15457e4</guid>
+      <pubDate>Sun, 20 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>吴振宇;屈先锋;王慧;陆思良;刘永斌;胡存刚;</dc:creator>
+      <description><![CDATA[无刷直流电机因其高效率、高可靠性及良好的调速性能，被广泛应用于工业驱动领域。匝间短路是其常见故障之一，精准的故障诊断是保障电机安全稳定运行的关键。由于电机的运行工况复杂多变，现有迁移学习模型在计算性能与边缘部署计算成本之间难以取得平衡。为此，该文提出一种基于领域自适应的轻量化诊断模型及分层迁移策略，用于匝间短路跨工况实时诊断。首先建立匝间短路下绕组等效模型，依据负载电流推导匝间短路的基本原理；其次...]]></description>
+    </item>
+    <item>
+      <title>计及光伏阵列物理特性的并网发电系统三元导纳建模与稳定性分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9Gpvf0wC_vKATzFRClbh4adEo2ES6DbuabwWHFqkBQONT8OA78InerlXf1bKAIz8_I--s22F_9cDDDvTGjGg4aWs4UzRA8rxHnb5qTsiga5uyPemDYzCvAxIa6PuwtkTWErBIu5fjc1XriZg7bBvzrv5_XslcDFf-rW86VL7MPVwKw==</link>
+      <guid isPermaLink="false">cnki-35413ebcb78ee33de5fc7640bd797aa7dfc4a2fd</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>王子厚;韩民晓;易威;梁国邦;黄明欣;唐酿;陈韬;</dc:creator>
+      <description><![CDATA[随着光伏装机容量持续增长，光伏并网系统的振荡风险日益凸显，而传统基于单一工况的频域模型难以刻画环境工况变化下稳定性特性的演变规律。本文从机理出发，将温度与辐照度统一纳入导纳建模框架，综合考虑光伏阵列最大功率点等效阻抗、直流侧动态及交流侧频率耦合效应，建立了以频率、温度与辐照度为变量的三元端口导纳模型。通过三维包络与二维切片分析，对模型在全工况范围内的有效性进行了验证。引入综合参数灵敏度指标，对温度...]]></description>
+    </item>
+    <item>
+      <title>基于中心抽头变压器的新型单级式双向高频隔离型DC/AC变换器研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrrsQ1J4976cLS08F456pt_e0mpXteRZUIG4o9f5VLrauW9zDR6SxS_YTNZbupIMyHThyNLWsoTTk4xe8BJx5bs_vbYj3IBbiYLfMTNo8w3IOUaULaAtSfdk-smxbXNkDY4hq5Rf4emRuSMyZmTIRSfttkQFIFqaQQDOpcyy18abg==</link>
+      <guid isPermaLink="false">cnki-ecb66ae358ba6d60025c7f097d22f01828f6b13e</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>姜宇;秦佳航;刘闯;刘海军;朱帝;郭东波;孙赫阳;王菁月;</dc:creator>
+      <description><![CDATA[现有单级式高频隔离型DC/AC变换器通常依赖双向开关，并且普遍存在电路结构复杂、控制实施困难等问题，因而在效率、功率密度以及运行可靠性方面存在局限性。为此，本文提出一种基于中心抽头变压器的新型单级式双向高频隔离型DC/AC变换器，无需双向开关和中间直流母线电容，电路组件较少。此外，通过采用一种基于双三角载波的单极性不对称SPWM调制策略，所提变换器可依靠简单的单变量移相调制方案实现单级功率转换，无...]]></description>
+    </item>
+    <item>
+      <title>电子数对锂离子电池电解液结构演化与耐压窗口影响分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrK4TgnaNExDbN17qktNrXWEd3QTPtIIKN_pBk8Xh-4asgXPlAjzrBClX2d4k6gLLuZcGN0Q69mrl-fZ_C1RKG7W7w6c9OKIntHUko6ruoDpwQmrxqW--LIA48JRBpaC8sHL_M3N_P2DUD-IgQEMo3Eun10bycHRoiv9i25xYc_Ww==</link>
+      <guid isPermaLink="false">cnki-33be1e3ff7c92719bc28634a0f305ec63fa92c24</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>孔江凯;郝伟;刘亚坤;梁正;沈思远;李雨珺;庞全全;</dc:creator>
+      <description><![CDATA[电解液结构劣化是锂离子电池的研究基础之一，过电压冲击导致的电解液电子数增减对电池性能的影响问题尚不明晰。本文结合第一性原理计算和实验研究，建立锂离子电池商业电解液模型，开展电解液内各分子断键时序分析，明晰常温下电子数增减后电解液结构演化特征，计算电子数增减下耐压窗口大小，研究电子数增减下电解液结构与耐压能力的自恢复能力。结果表明，电子数增减会引起碳酸酯分子C-O化学键断裂达79.54%，导致其分解...]]></description>
+    </item>
+    <item>
+      <title>计及交直流多频耦合的级联H桥型变流器交流侧阻抗建模与并网稳定性分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GrvY3TET8ol89lUOBJ_0thIGxkIJORqepck04MlT0yE-duRYJx0exgZjbYaX4TBXyJc_jxrGIgZEv6_D9XR9O3rYEyaeGmtoVfufg-K_Lti90pYz2SpQEqAWmZ5KFRuOc4NPGwvTXsCvIzpd1khnjMOpzHEAu66lfFFOu6__UWaaQ==</link>
+      <guid isPermaLink="false">cnki-abac02cb304c2afc901b7c7214f6ed02dfa3e9d2</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>李晨雄;卢娟娟;姚文熙;李武华;</dc:creator>
+      <description><![CDATA[弱电网下级联H桥(Cascaded H-Bridge， CHB)变流器与电网阻抗的动态交互易引发系统失稳，而精确的变流器交流侧阻抗模型是揭示其机理的关键。本文以级联H桥型固态变压器(CHB-SST)为研究对象，提出一种计及交直流多频耦合效应的序阻抗建模与稳定性分析方法。针对模块化中间直流母线分离导致的频率耦合问题，本文分析了非零序功率扰动在电压环与调制环节中引发的多频耦合机制，表明其在交流侧阻抗中...]]></description>
+    </item>
+    <item>
+      <title>液态二氧化碳储能系统放电过程动态特性及控制策略</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9Gp4l4Em9POtN5iw2DTLu2R0sKhxbkB4kshsgN21A6t3ptJDPWWEf8ZVmiWhQ4F0t3sW-kMoOgWr_50sMsPJtNInl8q2vBD6CQ8sr3GiVAb17Aa_IFM0QpogZmtHH5_FJqTMZSoVMi_kx3LuenVlmC7PcSfSL2xaB4CgtV0A3dvZpQ==</link>
+      <guid isPermaLink="false">cnki-0d7236e6d0a170947ce12db4f19311b48c3f0e7e</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>史庆航;戴天乐;张雅鑫;许诚;</dc:creator>
+      <description><![CDATA[液态CO₂储能（LCES）作为一种新兴的大规模长时储能技术，凭借其高储能密度、无地理限制及环境友好等优势，近年来受到学术界广泛关注。针对该系统动态特性研究不足及控制策略不完善的问题，该文首先建立了液态CO₂储能系统放电过程动态仿真模型，提出了基于PID控制的转速功率协调控制策略，并引入执行机构的动态延时及透平可变定子叶片调节，重点探究系统在启动及负荷阶跃下的动态特性。结果表明：在启动冲转阶段，升转...]]></description>
+    </item>
+    <item>
+      <title>面向三电平多相H桥电驱动系统死区消除PWM调制方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9Gpkm--2HxtHMtUyjQm_Pww_GvSayOihHLkWHYGtLTJb7WklfbAy7eVqBzEHO5uKDVleAx9ULBWMlqgpy5kq27hI2N0wNcmePIZvhGaDNP7PR80zVFgleHw3IgBLYPaRsvZbK0DMabmNBwEh3lmRAXfwt0cqq9xWILmB0py6D7SvIQ==</link>
+      <guid isPermaLink="false">cnki-834b742c31319a72ac4e50faf888ae708d80e1a8</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>纪博文;胡亮灯;雷铄;邹沩尔;徐小松;</dc:creator>
+      <description><![CDATA[三电平多相H桥电驱动系统具有良好的冗余性和低转矩脉动特性，是大型船舶电力推进的优选方案。其PWM调制需设置死区以规避开关管直通问题，但死区会造成输出电压畸变、谐波含量升高等问题。传统死区优化方法补偿精度较低且高度依赖电流极性检测，工程适用性不强。对此，本文提出一种适用于三电平多相H桥电驱动系统PWM载波调制的死区消除方法，可有效消除死区效应，解决了传统方法中补偿精度不足、依赖电流极性及电流过零钳位...]]></description>
+    </item>
+    <item>
+      <title>基于磁场调制效应的交替永磁反凸极电机转矩提升机理研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqRxB_LqJBEcZRkvy8ywLjgNIn2-7B4jiFpaYBcmxyb2B-A_uSMg8k8FMD9UOe5nZoHmdLrblLFzJ7Cad7s4OJqGzFBngBwXD3wcfyyCs3-y1fFb5W8oKLI-D_mqPYvyvJX9Qhlaj2L16PX69f09qk1w2Phrb4QgZrSBDTK-gxIVQ==</link>
+      <guid isPermaLink="false">cnki-a2e83c66e9a0f2b387b7fc607b06f45b739e85c0</guid>
+      <pubDate>Thu, 17 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>周庆林;李亚;丁石川;杭俊;</dc:creator>
+      <description><![CDATA[反凸极永磁电机因具有磁通增强效应，在宽调速运行及抗退磁方面具有潜在优势。但受限于凸极率偏低，其磁阻转矩利用不足，且与永磁转矩合成协同性受限。为此，提出一种交替永磁反凸极永磁电机。在定子结构和永磁体用量相同的条件下，对反凸极电机、交替极电机及所提电机进行对比分析。基于磁场调制理论与等效静电场法提取定、转子侧气隙磁导及等效气隙边界磁势，并结合麦克斯韦应力张量法分析各工作谐波的转矩贡献。结果表明：传统交...]]></description>
+    </item>
+    <item>
+      <title>对称共模回路阻抗结构的CLLC变换器传导共模EMI特性分析与设计</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqRxB_LqJBEcZRkvy8ywLjgNIn2-7B4jiFpaYBcmxyb2B-A_uSMg8k8tQF5q_p9qTrmjy98fyHBTngM_DcoQlCPX_YbXUg7rjmM14UaW2Dxg-WtzKv80XB0RleoJ07nYXUGqefxUOnWo2MzFrvJmq8Mb6mUGjpmJzZnFTofVhzLXg==</link>
+      <guid isPermaLink="false">cnki-f2932ef8235a00ddd4d9abe4ebcd23d571c0be41</guid>
+      <pubDate>Thu, 17 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>林苏斌;余玮哲;黄昌文;林凯维;叶烜;陈为;</dc:creator>
+      <description><![CDATA[谐振腔器件的对称性以及变压器绕组分布电容是影响CLLC变换器共模EMI特性的关键因素，现有基于对称谐振腔器件的CLLC变换器共模EMI特性优化方法不仅存在谐振电感个数多且会带来中高频段共模谐振尖峰的问题。文中针对该问题，基于噪声源特性与噪声传输机理分析，提出了将谐振腔器件和变压器的分布电容视为共模EMI滤波器的新观点，根据滤波器插入损耗的原理，建立了CLLC变换器的共模插入损耗解析模型，明确了谐振...]]></description>
+    </item>
+    <item>
+      <title>基于分布式气体监测的磷酸铁锂电池热失控预警方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9Gq2x47lsiTmiQm3ueBmmDwbTbsICTS9UqR4a7ixrZlvo5bj_zIBkZXNikFMDP-gl_zwnHc_vkzZlgg-DKybggg42HLjSUbfOSeqLtrcsFz9mgL02BER-NQKHQjep916iUlJfQpxsj23i1d5jrX3IhHvr69UrtZJnzhns-9V-ZJeZg==</link>
+      <guid isPermaLink="false">cnki-42b987c6c79ed8051f50e8421a24dfa4f7ec4524</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>博克寒;褚继峰;潘健彬;樊帅;赵骏;杨爱军;荣命哲;王小华;</dc:creator>
+      <description><![CDATA[磷酸铁锂(lithium iron phosphate，LFP)电池储能是新能源消纳的重要支撑技术，但在滥用工况下存在电解液泄漏与热失控风险。针对热失控气体预警研究对电解液泄漏关注不足、预警有效性验证不充分的问题，提出基于气体特征量的电解液泄漏检测与热失控早期预警方法。开展了过充、过热工况下的热失控触发与早停实验，并对气体传感器有效检测距离进行了测试。结果表明：在论文实验条件下，1 C过充工况中传...]]></description>
+    </item>
+    <item>
+      <title>基于能量协调的海上柔直系统直流耗能装置调制电压优化策略</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GolxC0-A67iCS8wZWYoWU7biRTE4W8Kho6RoqFpw4ZO4HliGGYni_2Dnj7XK3AUlkSQMtGH0KOI3ligf4kOTS4Bn3qwYsH3j67biEQP21wil2TM_m7VDrf6juz8MKhSd1gWKxH7-pdkfHKe2Sp2njsoRYv0jzKgfJSlFs9FTF-YeQ==</link>
+      <guid isPermaLink="false">cnki-ef59ee8f67b5c7825826eabebeaec8241e8f059b</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>苏丽倩;张建文;王彦峰;臧甲杰;蔡海青;杨仁炘;</dc:creator>
+      <description><![CDATA[直流耗能装置(DC energy dissipation device，DC-EDD)是提升海上风电经柔性直流并网系统故障穿越(fault ride-through，FRT)能力的关键技术手段。基于半桥子模块(half-bridge submodule，HBSM)的集中式DC-EDD具有扩展性强、电磁干扰低的优势，已应用于海上风电工程。为实现能量平衡，现有梯形波调制与正弦波调制需将DC-EDD的调...]]></description>
+    </item>
+    <item>
+      <title>混合换相换流器用RB-IGCT老化特性研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GpLivhN2MhC-O6LqpU8y4APHSU8kBfDyInSNM8SCHdHP85A-rQxLRBuMLs0LDZi8GHqXhmnWVD75R3puISVa8Iob_9NHcKXVV9LZWbhNm3cGZfm1lYiS_iG29Ntsp7bVwshHZvy0i1B5ptr3uKaA_pV0Oe3bkDJ91_Rb2XOGjtYKQ==</link>
+      <guid isPermaLink="false">cnki-574688b8f6f1d60565c9c445da58a36afb57fdf0</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>雷承博;屈鲁;余占清;魏晓光;杨天慧;纽春萍;蔡放;何旭;张公一;曾嵘;</dc:creator>
+      <description><![CDATA[在高压直流输电系统中，换流阀内半导体器件的可靠性对电网安全稳定运行具有决定性影响。然而，目前针对混合换相换流器(hybrid commutated converter， HCC)中反向阻断集成门极换流晶闸管(reverse-blocking integrated gate-commutated thyristor， RB-IGCT)退化特性的研究尚属空白。本文首先分析RB-IGCT在换流阀工况下的...]]></description>
+    </item>
+    <item>
+      <title>支撑受端电网频率安全的抽水蓄能—光伏大基地安全经济协同调度方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9Gq3Ttp1bK9qrsncK2Q_r_PTTqiW_XiFwg2jgFAKcNAfDtOvK--WsUTmiF4HdemQK0CK9CZGoxTFTx-oLybBYvDYG1qpMJgoZNmpXuInKXJyVytCl_iVI7kSDLX6H46rL_ViG6CNJBL3ns7DsKrVN3k3OYlziaR9yLCK1q7L2Yw2lQ==</link>
+      <guid isPermaLink="false">cnki-51dff69762dae5fd1feb8a85202cf038a9ab2d29</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>夏龙康;张俊涛;程春田;于申;</dc:creator>
+      <description><![CDATA[在强非线性、多时间尺度动态耦合与不确定性约束下，兼顾抽蓄—光伏大基地外送经济性与受端电网频率安全，是跨区清洁能源配置的关键问题。为此，提出一种安全—经济协同优化调度方法。构建“小时级经济调度—秒级安全校核—约束反馈”闭环框架，综合考虑光伏波动、多级有功备用、抽蓄水力—电力耦合、交直流动态及受端频率安全，建立协同调度模型；构建基于软演员—评论家算法的容量与备用边界修正智能体，将非线性频率安全要求转换...]]></description>
+    </item>
+    <item>
+      <title>基于抗饱和辅助的弹性电网分布式二次频率控制方法</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=tQWh-SbE9GqKTaLTvIM9gRaFGYDkm5mg_A0ekkZGaWKJURlOIywZMNHLnpzUlo7AEmj8Talp8zGZQ0A27KNTM3VwSkLQU3_ngE7grdVgNfHvoat5-8DNeVmnpiZ9l32eeWUJXhrdX7Q-0y6hMWRzlV2LXe99BrrH5O7kXbW-pkMOEFH4ry8gfw==</link>
+      <guid isPermaLink="false">cnki-b720e119cd8f6b938b4a8cee48814869682f8576</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+      <dc:creator>朱杰;张玉坪;谢云云;蔡胜;周前;向峥嵘;</dc:creator>
+      <description><![CDATA[自然灾害引发配电网局部停电后，利用其中的逆变器电源(IBR)可以实现停电区域的快速恢复。在配电网恢复过程中，电源和负荷的不断投入易引发系统稳态频率频繁波动，为了保证恢复过程的安全性，有必要对已恢复系统进行二次频率控制。现有电力系统二次频率控制多采用集中式控制架构，然而，自然灾害下通信系统故障可能导致已恢复电网无法实现集中式控制，采用分布式二次频率控制方式可以灵活快速接入大量分布式IBR，提升自然灾...]]></description>
+    </item>
+  </channel>
+</rss>
