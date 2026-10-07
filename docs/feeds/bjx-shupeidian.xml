@@ -5,11 +5,19 @@
     <link>https://shupeidian.bjx.com.cn/</link>
     <description>北极星输配电频道。电网侧政策、招标、工程动态。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/bjx-shupeidian.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>屋顶光伏拼出半个“三峡” 这道电网调度难题怎么破</title>
+      <link>https://news.bjx.com.cn/html/20261007/1515033.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261007/1515033.shtml</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[屋顶光伏拼出半个“三峡” 这道电网调度难题怎么破]]></description>
+    </item>
     <item>
       <title>能源央企重组整合呈现五大趋势</title>
       <link>https://news.bjx.com.cn/html/20260930/1514997.shtml</link>
@@ -99,14 +107,6 @@
       <description><![CDATA[柔性技术筑牢新型电力系统底座]]></description>
     </item>
     <item>
-      <title>构建天地全域分布式算电协同，实现天地资源高效互补</title>
-      <link>https://news.bjx.com.cn/html/20260930/1514991.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1514991.shtml</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[构建天地全域分布式算电协同，实现天地资源高效互补]]></description>
-    </item>
-    <item>
       <title>国网山东电力召开安全生产专题会议</title>
       <link>https://news.bjx.com.cn/html/20260930/1515024.shtml</link>
       <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515024.shtml</guid>
@@ -139,36 +139,68 @@
       <description><![CDATA[充电桩的安全，谁来“守门”？]]></description>
     </item>
     <item>
-      <title>南方能源监管局现场指导国庆节前保供电工作</title>
-      <link>https://news.bjx.com.cn/html/20260930/1514851.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1514851.shtml</guid>
+      <title>国网青龙县供电公司：满格电力护秋收 贴心服务助丰产</title>
+      <link>https://news.bjx.com.cn/html/20260930/1515030.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515030.shtml</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[南方能源监管局现场指导国庆节前保供电工作]]></description>
+      <description><![CDATA[国网青龙县供电公司：满格电力护秋收 贴心服务助丰产]]></description>
     </item>
     <item>
-      <title>安徽亳州柳西110kV输变电工程核准前公示</title>
-      <link>https://news.bjx.com.cn/html/20260930/1514905.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1514905.shtml</guid>
+      <title>国网青龙县供电公司：多措并举保供电 “绿色希冀”护民生</title>
+      <link>https://news.bjx.com.cn/html/20260930/1515029.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515029.shtml</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[安徽亳州柳西110kV输变电工程核准前公示]]></description>
+      <description><![CDATA[国网青龙县供电公司：多措并举保供电 “绿色希冀”护民生]]></description>
     </item>
     <item>
-      <title>国家电网与中国华电举行会谈 共同推进新型电力系统建设</title>
-      <link>https://news.bjx.com.cn/html/20260930/1514804.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1514804.shtml</guid>
+      <title>国网秦皇岛供电公司：暖心服务解民忧</title>
+      <link>https://news.bjx.com.cn/html/20260930/1515028.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515028.shtml</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[国家电网与中国华电举行会谈 共同推进新型电力系统建设]]></description>
+      <description><![CDATA[国网秦皇岛供电公司：暖心服务解民忧]]></description>
     </item>
     <item>
-      <title>智利电力行业明确配电改革立法核心诉求</title>
-      <link>https://news.bjx.com.cn/html/20260930/1514871.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1514871.shtml</guid>
+      <title>国网昌黎县供电公司：提前谋划早部署 保障假期可靠供电</title>
+      <link>https://news.bjx.com.cn/html/20260930/1515027.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515027.shtml</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[智利电力行业明确配电改革立法核心诉求]]></description>
+      <description><![CDATA[国网昌黎县供电公司：提前谋划早部署 保障假期可靠供电]]></description>
+    </item>
+    <item>
+      <title>国网卢龙县供电公司：雨后特巡查隐患 筑牢电网安全运行防线</title>
+      <link>https://news.bjx.com.cn/html/20260930/1515026.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515026.shtml</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[国网卢龙县供电公司：雨后特巡查隐患 筑牢电网安全运行防线]]></description>
+    </item>
+    <item>
+      <title>国网围场县供电公司：绿色希冀映塞罕 巡线护电守光明</title>
+      <link>https://news.bjx.com.cn/html/20260930/1515022.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515022.shtml</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[国网围场县供电公司：绿色希冀映塞罕 巡线护电守光明]]></description>
+    </item>
+    <item>
+      <title>国网唐山市丰润区供电公司：提前部署强保障·“绿色希冀”护航国庆保供电</title>
+      <link>https://news.bjx.com.cn/html/20260930/1515021.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515021.shtml</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[国网唐山市丰润区供电公司：提前部署强保障·“绿色希冀”护航国庆保供电]]></description>
+    </item>
+    <item>
+      <title>国网唐山市丰润区供电公司：全力保电迎国庆·“绿色希冀”守护万家灯火明</title>
+      <link>https://news.bjx.com.cn/html/20260930/1515020.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1515020.shtml</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[国网唐山市丰润区供电公司：全力保电迎国庆·“绿色希冀”守护万家灯火明]]></description>
     </item>
     <item>
       <title>国网北京电力2026年科技成果物资第一次框架协议(电商交易)单一来源采购项目推荐的成交候选人公示</title>
@@ -185,6 +217,14 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[安徽亳州产业园220kV变电站110kV送出工程核准前公示]]></description>
+    </item>
+    <item>
+      <title>安徽亳州柳西110kV输变电工程核准前公示</title>
+      <link>https://news.bjx.com.cn/html/20260930/1514905.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1514905.shtml</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[安徽亳州柳西110kV输变电工程核准前公示]]></description>
     </item>
     <item>
       <title>广州花都220千伏车城站扩建第三台主变工程核准获批</title>
@@ -449,46 +489,6 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[我国高压电缆附件用硅橡胶材料自主化取得重要突破]]></description>
-    </item>
-    <item>
-      <title>宁夏750千伏星塘变电站1号主变压器高压试验完成</title>
-      <link>https://news.bjx.com.cn/html/20260907/1511541.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260907/1511541.shtml</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[宁夏750千伏星塘变电站1号主变压器高压试验完成]]></description>
-    </item>
-    <item>
-      <title>国网江苏电科院一项移相器技术获美国发明专利授权</title>
-      <link>https://news.bjx.com.cn/html/20260827/1510393.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260827/1510393.shtml</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[国网江苏电科院一项移相器技术获美国发明专利授权]]></description>
-    </item>
-    <item>
-      <title>国网河南电力自主研发变压器全品类在线监测装置</title>
-      <link>https://news.bjx.com.cn/html/20260827/1510239.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260827/1510239.shtml</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[国网河南电力自主研发变压器全品类在线监测装置]]></description>
-    </item>
-    <item>
-      <title>构网型技术领域基础性国家标准《构网型变流器通用技术规范》获批发布</title>
-      <link>https://news.bjx.com.cn/html/20260818/1508825.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260818/1508825.shtml</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[构网型技术领域基础性国家标准《构网型变流器通用技术规范》获批发布]]></description>
-    </item>
-    <item>
-      <title>首套响应驱动稳控装置支撑新能源安全高效消纳</title>
-      <link>https://news.bjx.com.cn/html/20260818/1508820.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260818/1508820.shtml</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[首套响应驱动稳控装置支撑新能源安全高效消纳]]></description>
     </item>
   </channel>
 </rss>

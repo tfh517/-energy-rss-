@@ -5,11 +5,19 @@
     <link>https://www.bjx.com.cn/</link>
     <description>北极星首页当日要闻汇总。条目多、更新快, 适合当行业雷达。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/bjx-yaowen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>屋顶光伏拼出半个“三峡” 这道电网调度难题怎么破</title>
+      <link>https://news.bjx.com.cn/html/20261007/1515033.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261007/1515033.shtml</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[屋顶光伏拼出半个“三峡” 这道电网调度难题怎么破]]></description>
+    </item>
     <item>
       <title>国家发改委《电力市场风险防控管理办法（征求意见稿）》</title>
       <link>https://news.bjx.com.cn/html/20260930/1514967.shtml</link>
@@ -481,14 +489,6 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[2×660MW项目脱硫系统EP招标]]></description>
-    </item>
-    <item>
-      <title>2×660MW项目，三大主机预中标！</title>
-      <link>https://news.bjx.com.cn/html/20260930/1514939.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260930/1514939.shtml</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[2×660MW项目，三大主机预中标！]]></description>
     </item>
   </channel>
 </rss>
