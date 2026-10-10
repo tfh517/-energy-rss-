@@ -5,11 +5,19 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>南方电网官网「公司要闻」, 可替代公众号「南网50Hz」的官方口径内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-yaowen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>南方电网公司董事会召开2026年第八次会议</title>
+      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261010_357653.html</link>
+      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261010_357653.html</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[南方电网公司董事会召开2026年第八次会议]]></description>
+    </item>
     <item>
       <title>公司党组传达学习贯彻习近平总书记近期重要讲话重要指示和重要文章精神</title>
       <link>https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261009_357647.html</link>
@@ -161,14 +169,6 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[公司安全生产委员会召开2026年第五次(扩大)会议 从严从实抓好隐患排查整治 坚决守牢公司安全发展基本盘]]></description>
-    </item>
-    <item>
-      <title>《人民日报》刊发钱朝阳署名文章｜以新型电网建设促进“六张网”协同发展</title>
-      <link>https://mp.weixin.qq.com/s/g-N-rbRenlalhQk7-YbONg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/g-N-rbRenlalhQk7-YbONg</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[《人民日报》刊发钱朝阳署名文章｜以新型电网建设促进“六张网”协同发展]]></description>
     </item>
   </channel>
 </rss>
