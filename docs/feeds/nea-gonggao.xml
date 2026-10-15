@@ -5,11 +5,18 @@
     <link>https://www.nea.gov.cn/policy/gg.htm</link>
     <description>国家能源局「公告」栏目, 含新能源建档立卡、数据发布等。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:17:08 +0800</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 11:17:08 +0800</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:09:10 +0800</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 18:09:10 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-gonggao.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>欢迎报考国家能源局公务员</title>
+      <link>https://www.nea.gov.cn/20261015/2bcf1c003b264e8cb770daa731b07346/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261015/2bcf1c003b264e8cb770daa731b07346/c.html</guid>
+      <pubDate>Thu, 15 Oct 2026 18:09:10 +0800</pubDate>
+      <description><![CDATA[欢迎报考国家能源局公务员]]></description>
+    </item>
     <item>
       <title>关于2026年8月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告</title>
       <link>http://www.nea.gov.cn/20260923/aaadb598d4cc4c0a92585bfd26c8728e/c.html</link>
@@ -447,14 +454,6 @@
       <guid isPermaLink="false">http://www.nea.gov.cn/20250702/923f013fb13d48f0b8e214b167a2b90b/c.html</guid>
       <pubDate>Wed, 02 Jul 2025 16:55:27 +0800</pubDate>
       <description><![CDATA[关于2025年5月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告]]></description>
-    </item>
-    <item>
-      <title>关于我局法律顾问服务单位公开比选结果公示</title>
-      <link>https://www.nea.gov.cn/20250625/81e21516ae0f4149a805360ddb08e177/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20250625/81e21516ae0f4149a805360ddb08e177/c.html</guid>
-      <pubDate>Wed, 25 Jun 2025 18:52:00 +0800</pubDate>
-      <dc:creator>韩建平</dc:creator>
-      <description><![CDATA[根据比选结果，拟选聘北京德恒律师事务所、北京市中闻律师事务所作为我局两期法律顾问服务单位，服务期限为2025年6月底--2027年6月底。]]></description>
     </item>
   </channel>
 </rss>
