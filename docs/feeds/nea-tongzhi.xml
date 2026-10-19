@@ -5,11 +5,18 @@
     <link>https://www.nea.gov.cn/policy/tz.htm</link>
     <description>国家能源局「通知」栏目, 含行业标准制修订计划等文件。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 28 Sep 2026 09:03:29 +0800</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 09:03:29 +0800</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:11:36 +0800</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 18:11:36 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-tongzhi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知</title>
+      <link>http://www.nea.gov.cn/20261019/2b3b4fb293ff4c2dad59a8608d5275d6/c.html</link>
+      <guid isPermaLink="false">http://www.nea.gov.cn/20261019/2b3b4fb293ff4c2dad59a8608d5275d6/c.html</guid>
+      <pubDate>Mon, 19 Oct 2026 18:11:36 +0800</pubDate>
+      <description><![CDATA[国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知]]></description>
+    </item>
     <item>
       <title>关于披露中国能源传媒集团有限公司负责人2025年度薪酬情况的通知</title>
       <link>http://www.nea.gov.cn/20260928/ccc0e6f629384053b0bf50cc3f018187/c.html</link>
@@ -434,14 +441,6 @@
       <pubDate>Thu, 30 Oct 2025 10:40:36 +0800</pubDate>
       <dc:creator>张景云</dc:creator>
       <description><![CDATA["为进一步规范电力业务许可证的延续、注销管理，国家能源局对《电力业务许可证注销管理办法》（国能发资质规﹝2021﹞33号）进行了修订，已形成《电力业务许可证延续及注销管理办法（征求意见稿）》，现向社会公开征求意见。"]]></description>
-    </item>
-    <item>
-      <title>国家能源局综合司关于加强组织管理 进一步推进电力安全生产标准化建设工作的通知</title>
-      <link>https://www.nea.gov.cn/20251030/b7f3dd205c0a4dbc9ac4bc821e78657d/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20251030/b7f3dd205c0a4dbc9ac4bc821e78657d/c.html</guid>
-      <pubDate>Thu, 30 Oct 2025 10:40:23 +0800</pubDate>
-      <dc:creator>张景云</dc:creator>
-      <description><![CDATA["电力企业集团总部指导下属单位结合企业安全生产实际，依据年度计划制定本单位安全生产标准化实施方案，实施方案应包括目标任务、完成时限、责任部门、配套措施、经费预算等，有序推进本单位标准化建设工作，切实提高本质安全水平。"]]></description>
     </item>
   </channel>
 </rss>
