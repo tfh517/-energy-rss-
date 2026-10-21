@@ -5,11 +5,18 @@
     <link>https://www.nea.gov.cn/policy/tz.htm</link>
     <description>国家能源局「通知」栏目, 含行业标准制修订计划等文件。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Oct 2026 18:11:36 +0800</lastBuildDate>
-    <pubDate>Mon, 19 Oct 2026 18:11:36 +0800</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:27:38 +0800</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 14:27:38 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-tongzhi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国家能源局关于推动煤电与新能源融合发展的实施意见</title>
+      <link>http://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html</link>
+      <guid isPermaLink="false">http://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html</guid>
+      <pubDate>Wed, 21 Oct 2026 14:27:38 +0800</pubDate>
+      <description><![CDATA[国家能源局关于推动煤电与新能源融合发展的实施意见]]></description>
+    </item>
     <item>
       <title>国家能源局综合司关于公开征求《全国统一电力市场信用评价指引（征求意见稿）》意见的通知</title>
       <link>http://www.nea.gov.cn/20261019/2b3b4fb293ff4c2dad59a8608d5275d6/c.html</link>
@@ -433,14 +440,6 @@
       <guid isPermaLink="false">https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html</guid>
       <pubDate>Fri, 07 Nov 2025 17:06:55 +0800</pubDate>
       <description><![CDATA[国家能源局关于推进煤炭与新能源融合发展的指导意见]]></description>
-    </item>
-    <item>
-      <title>国家能源局综合司关于公开征求《电力业务许可证延续及注销管理办法（征求意见稿）》意见的通知</title>
-      <link>https://www.nea.gov.cn/20251030/e07dfa47d9984d2f9509a215c6ce9283/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20251030/e07dfa47d9984d2f9509a215c6ce9283/c.html</guid>
-      <pubDate>Thu, 30 Oct 2025 10:40:36 +0800</pubDate>
-      <dc:creator>张景云</dc:creator>
-      <description><![CDATA["为进一步规范电力业务许可证的延续、注销管理，国家能源局对《电力业务许可证注销管理办法》（国能发资质规﹝2021﹞33号）进行了修订，已形成《电力业务许可证延续及注销管理办法（征求意见稿）》，现向社会公开征求意见。"]]></description>
     </item>
   </channel>
 </rss>
