@@ -5,11 +5,19 @@
     <link>https://shupeidian.bjx.com.cn/</link>
     <description>北极星输配电频道。电网侧政策、招标、工程动态。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/bjx-shupeidian.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>西藏拉萨220千伏东城输变电工程投产</title>
+      <link>https://news.bjx.com.cn/html/20261023/1517343.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261023/1517343.shtml</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[西藏拉萨220千伏东城输变电工程投产]]></description>
+    </item>
     <item>
       <title>现在兴起的“碳业务”是真有必要，还是制造焦虑？</title>
       <link>https://news.bjx.com.cn/html/20261022/1517320.shtml</link>
@@ -209,14 +217,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[内蒙古黄合少500千伏输变电工程拟于11月底投产]]></description>
-    </item>
-    <item>
-      <title>内蒙古鸿盛500千伏输变电工程进度刷新</title>
-      <link>https://news.bjx.com.cn/html/20261021/1517145.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261021/1517145.shtml</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[内蒙古鸿盛500千伏输变电工程进度刷新]]></description>
     </item>
     <item>
       <title>全国首次特高压柔直换流阀低压解锁特性试验完成</title>
