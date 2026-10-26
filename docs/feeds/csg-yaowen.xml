@@ -5,11 +5,19 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>南方电网官网「公司要闻」, 可替代公众号「南网50Hz」的官方口径内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-yaowen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国家能源局主要负责同志赴广东调研新型电网建设等工作</title>
+      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261026_357847.html</link>
+      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261026_357847.html</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[国家能源局主要负责同志赴广东调研新型电网建设等工作]]></description>
+    </item>
     <item>
       <title>南方区域电力市场正式运行 全国统一电力市场体系建设取得重大突破</title>
       <link>https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261024_357826.html</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[标准促进合作：共建澜湄绿色低碳电力共同体 第四届澜湄区域电力技术及标准交流会在昆明举行]]></description>
-    </item>
-    <item>
-      <title>新型电力通信试点验证接通藏粤直流工程通信盲区</title>
-      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261020_357753.html</link>
-      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261020_357753.html</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[新型电力通信试点验证接通藏粤直流工程通信盲区]]></description>
     </item>
   </channel>
 </rss>
