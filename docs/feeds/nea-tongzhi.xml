@@ -5,11 +5,18 @@
     <link>https://www.nea.gov.cn/policy/tz.htm</link>
     <description>国家能源局「通知」栏目, 含行业标准制修订计划等文件。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:27:38 +0800</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 14:27:38 +0800</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:02:08 +0800</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 08:02:08 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-tongzhi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国家能源局等部门关于促进燃气轮机创新发展的指导意见</title>
+      <link>http://www.nea.gov.cn/20261030/e06ee65dc8b743e58b3888a81ba6a8b2/c.html</link>
+      <guid isPermaLink="false">http://www.nea.gov.cn/20261030/e06ee65dc8b743e58b3888a81ba6a8b2/c.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:02:08 +0800</pubDate>
+      <description><![CDATA[国家能源局等部门关于促进燃气轮机创新发展的指导意见]]></description>
+    </item>
     <item>
       <title>国家能源局关于推动煤电与新能源融合发展的实施意见</title>
       <link>http://www.nea.gov.cn/20261021/fbd5cb3be4584be88f63046ffb0155fc/c.html</link>
@@ -433,13 +440,6 @@
       <pubDate>Tue, 11 Nov 2025 16:26:15 +0800</pubDate>
       <dc:creator>李晏</dc:creator>
       <description><![CDATA[国家能源局派出机构和电力企业因工作需要，可从增补后的电力可靠性管理专家库中选取有关专家。]]></description>
-    </item>
-    <item>
-      <title>国家能源局关于推进煤炭与新能源融合发展的指导意见</title>
-      <link>https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html</guid>
-      <pubDate>Fri, 07 Nov 2025 17:06:55 +0800</pubDate>
-      <description><![CDATA[国家能源局关于推进煤炭与新能源融合发展的指导意见]]></description>
     </item>
   </channel>
 </rss>
