@@ -5,11 +5,25 @@
     <link>https://www.nea.gov.cn/policy/gg.htm</link>
     <description>国家能源局「公告」栏目, 含新能源建档立卡、数据发布等。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:07:20 +0800</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 09:07:20 +0800</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:06:52 +0800</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 15:06:52 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-gonggao.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国家能源局公告 2026年第5号</title>
+      <link>https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html</guid>
+      <pubDate>Mon, 02 Nov 2026 15:06:52 +0800</pubDate>
+      <description><![CDATA[国家能源局公告 2026年第5号]]></description>
+    </item>
+    <item>
+      <title>关于2026年9月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告</title>
+      <link>https://www.nea.gov.cn/20261102/567b561e1eb846c3910b6efeafa55f5e/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261102/567b561e1eb846c3910b6efeafa55f5e/c.html</guid>
+      <pubDate>Mon, 02 Nov 2026 15:04:30 +0800</pubDate>
+      <description><![CDATA[关于2026年9月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告]]></description>
+    </item>
     <item>
       <title>国家能源局公告 2026年第4号</title>
       <link>http://www.nea.gov.cn/20261021/35115ff2391547fc9d2cf3e4af2c669c/c.html</link>
@@ -439,20 +453,6 @@
       <guid isPermaLink="false">http://www.nea.gov.cn/20250709/f010c1d4c2d648c09a6011f835a28d5a/c.html</guid>
       <pubDate>Wed, 09 Jul 2025 19:22:55 +0800</pubDate>
       <description><![CDATA[关于公开征集中国亚太经合组织合作基金项目承担单位的公告]]></description>
-    </item>
-    <item>
-      <title>国家能源局直属事业单位2025年度公开招聘拟聘用人员公示</title>
-      <link>http://www.nea.gov.cn/20250708/243b682c345b43058e8fe2646c7329c6/c.html</link>
-      <guid isPermaLink="false">http://www.nea.gov.cn/20250708/243b682c345b43058e8fe2646c7329c6/c.html</guid>
-      <pubDate>Tue, 08 Jul 2025 19:02:43 +0800</pubDate>
-      <description><![CDATA[国家能源局直属事业单位2025年度公开招聘拟聘用人员公示]]></description>
-    </item>
-    <item>
-      <title>关于2025年5月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告</title>
-      <link>http://www.nea.gov.cn/20250702/923f013fb13d48f0b8e214b167a2b90b/c.html</link>
-      <guid isPermaLink="false">http://www.nea.gov.cn/20250702/923f013fb13d48f0b8e214b167a2b90b/c.html</guid>
-      <pubDate>Wed, 02 Jul 2025 16:55:27 +0800</pubDate>
-      <description><![CDATA[关于2025年5月全国新增建档立卡新能源发电（不含户用光伏）项目情况的公告]]></description>
     </item>
   </channel>
 </rss>

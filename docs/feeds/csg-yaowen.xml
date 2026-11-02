@@ -5,11 +5,19 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>南方电网官网「公司要闻」, 可替代公众号「南网50Hz」的官方口径内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-yaowen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>第七届新型电力系统国际论坛暨第二十二届中国南方电网国际技术论坛举行 构建新型电力发展生态 共同推动能源低碳转型</title>
+      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261102_358058.html</link>
+      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261102_358058.html</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[第七届新型电力系统国际论坛暨第二十二届中国南方电网国际技术论坛举行 构建新型电力发展生态 共同推动能源低碳转型]]></description>
+    </item>
     <item>
       <title>钱朝阳在基层党的建设工作联系点调研时强调 抓实党建引领 加快创新发展 在新时代经济特区建设中展现更大作为</title>
       <link>https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261031_357976.html</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[南方区域电力市场 助力清洁能源岛新型电力系统建设]]></description>
-    </item>
-    <item>
-      <title>贵州 算电协同市场模式 把绿色低碳转为企业红利</title>
-      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261027_357874.html</link>
-      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261027_357874.html</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[贵州 算电协同市场模式 把绿色低碳转为企业红利]]></description>
     </item>
   </channel>
 </rss>
