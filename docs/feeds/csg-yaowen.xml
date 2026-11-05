@@ -5,11 +5,19 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>南方电网官网「公司要闻」, 可替代公众号「南网50Hz」的官方口径内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-yaowen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>钱朝阳专题调研海南电网基础设施建设和电力支撑保障水平提升工作 发挥党建引领作用 扛牢电力保供责任 为高标准建设海南自贸港提供能源支撑</title>
+      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261105_358115.html</link>
+      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261105_358115.html</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[钱朝阳专题调研海南电网基础设施建设和电力支撑保障水平提升工作 发挥党建引领作用 扛牢电力保供责任 为高标准建设海南自贸港提供能源支撑]]></description>
+    </item>
     <item>
       <title>十一场主旨报告 共话“新型电力调度体系构建”新图景</title>
       <link>https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261103_358071.html</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[季明彬出席南方电网品牌战略沟通会]]></description>
-    </item>
-    <item>
-      <title>南方电网公司首次举办优秀生产工器具创新成果展</title>
-      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261030_357946.html</link>
-      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202610/t20261030_357946.html</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[南方电网公司首次举办优秀生产工器具创新成果展]]></description>
     </item>
   </channel>
 </rss>
