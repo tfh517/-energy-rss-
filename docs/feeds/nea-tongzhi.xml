@@ -5,11 +5,18 @@
     <link>https://www.nea.gov.cn/policy/tz.htm</link>
     <description>国家能源局「通知」栏目, 含行业标准制修订计划等文件。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:32:30 +0800</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 14:32:30 +0800</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:26:06 +0800</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 11:26:06 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-tongzhi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国家能源局综合司关于公布《现代化用电营商环境“三个一批”建设典型案例清单》的通知</title>
+      <link>https://www.nea.gov.cn/20261109/dd6c5f3313a34d19ab874ec1dc5f75fa/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261109/dd6c5f3313a34d19ab874ec1dc5f75fa/c.html</guid>
+      <pubDate>Mon, 09 Nov 2026 11:26:06 +0800</pubDate>
+      <description><![CDATA[国家能源局综合司关于公布《现代化用电营商环境“三个一批”建设典型案例清单》的通知]]></description>
+    </item>
     <item>
       <title>国家能源局综合司关于做好电力企业安全生产费用提取和使用工作的通知</title>
       <link>https://www.nea.gov.cn/20261105/b975e2363c024aad8c4a7926b83658ad/c.html</link>
@@ -433,14 +440,6 @@
       <guid isPermaLink="false">https://www.nea.gov.cn/20251107/8b990f43dc774fc88c643614205e383d/c.html</guid>
       <pubDate>Fri, 07 Nov 2025 17:06:55 +0800</pubDate>
       <description><![CDATA[国家能源局关于推进煤炭与新能源融合发展的指导意见]]></description>
-    </item>
-    <item>
-      <title>国家能源局综合司关于公开征求《电力业务许可证延续及注销管理办法（征求意见稿）》意见的通知</title>
-      <link>https://www.nea.gov.cn/20251030/e07dfa47d9984d2f9509a215c6ce9283/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20251030/e07dfa47d9984d2f9509a215c6ce9283/c.html</guid>
-      <pubDate>Thu, 30 Oct 2025 10:40:36 +0800</pubDate>
-      <dc:creator>张景云</dc:creator>
-      <description><![CDATA["为进一步规范电力业务许可证的延续、注销管理，国家能源局对《电力业务许可证注销管理办法》（国能发资质规﹝2021﹞33号）进行了修订，已形成《电力业务许可证延续及注销管理办法（征求意见稿）》，现向社会公开征求意见。"]]></description>
     </item>
   </channel>
 </rss>
