@@ -5,11 +5,19 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>南方电网官网「公司要闻」, 可替代公众号「南网50Hz」的官方口径内容。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-yaowen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>南方电网与中国移动签署战略合作框架协议</title>
+      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261109_358165.html</link>
+      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261109_358165.html</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[南方电网与中国移动签署战略合作框架协议]]></description>
+    </item>
     <item>
       <title>南方电网公司干部员工深入学习贯彻党的二十届五中全会精神② 以严实作风把学习成效书写在履职一线</title>
       <link>https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261106_358129.html</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[南方电网公司干部员工深入学习贯彻党的二十届五中全会精神① 在深学笃行中把准方向凝聚力量]]></description>
-    </item>
-    <item>
-      <title>电网牵手物流网撬动增供扩销新路径</title>
-      <link>https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261103_358067.html</link>
-      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026gsyw/202611/t20261103_358067.html</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[电网牵手物流网撬动增供扩销新路径]]></description>
     </item>
   </channel>
 </rss>
