@@ -5,11 +5,19 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>南方电网官网「一线传真」, 偏基层、工程现场与具体实践。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-yixian.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>别人往山下冲 他们往山上走 ——云南500千伏博尚墨江I回线抢险复电记</title>
+      <link>https://www.csg.cn/xwzx/2026/2026yxcz/202611/t20261110_358197.html</link>
+      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026yxcz/202611/t20261110_358197.html</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[别人往山下冲 他们往山上走 ——云南500千伏博尚墨江I回线抢险复电记]]></description>
+    </item>
     <item>
       <title>一河连江海 向海动能足 ——电力大数据看平陆运河通航满月的发展跃动</title>
       <link>https://www.csg.cn/xwzx/2026/2026yxcz/202611/t20261106_358158.html</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[周月宾：与中国柔直技术一同“升压”]]></description>
-    </item>
-    <item>
-      <title>“蛇”出没 请注意</title>
-      <link>https://www.csg.cn/xwzx/2026/2026yxcz/202609/t20260929_357505.html</link>
-      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026yxcz/202609/t20260929_357505.html</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[“蛇”出没 请注意]]></description>
     </item>
   </channel>
 </rss>
