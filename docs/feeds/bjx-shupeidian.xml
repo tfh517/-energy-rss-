@@ -5,11 +5,75 @@
     <link>https://shupeidian.bjx.com.cn/</link>
     <description>北极星输配电频道。电网侧政策、招标、工程动态。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/bjx-shupeidian.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>海南：全省新能源汽车保有量突破60万辆，占汽车保有量的26.08%</title>
+      <link>https://news.bjx.com.cn/html/20261112/1519890.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261112/1519890.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[海南：全省新能源汽车保有量突破60万辆，占汽车保有量的26.08%]]></description>
+    </item>
+    <item>
+      <title>海南：环岛“口”字型500千伏主网架工程已建成</title>
+      <link>https://news.bjx.com.cn/html/20261112/1519861.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261112/1519861.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[海南：环岛“口”字型500千伏主网架工程已建成]]></description>
+    </item>
+    <item>
+      <title>国网陕西西安供电公司建成可自主应答的新型智慧配电网</title>
+      <link>https://news.bjx.com.cn/html/20261112/1519841.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261112/1519841.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[国网陕西西安供电公司建成可自主应答的新型智慧配电网]]></description>
+    </item>
+    <item>
+      <title>一度绿电的千里奔赴</title>
+      <link>https://news.bjx.com.cn/html/20261112/1519837.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261112/1519837.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[一度绿电的千里奔赴]]></description>
+    </item>
+    <item>
+      <title>复合绝缘子运行抽检与红外普测数据共享平台投用</title>
+      <link>https://news.bjx.com.cn/html/20261112/1519838.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261112/1519838.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[复合绝缘子运行抽检与红外普测数据共享平台投用]]></description>
+    </item>
+    <item>
+      <title>新疆电力经研院牵头编制的微电网方向团体标准发布</title>
+      <link>https://news.bjx.com.cn/html/20261112/1519839.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261112/1519839.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[新疆电力经研院牵头编制的微电网方向团体标准发布]]></description>
+    </item>
+    <item>
+      <title>河南省电碳协同创新中心成立</title>
+      <link>https://news.bjx.com.cn/html/20261112/1519840.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261112/1519840.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[河南省电碳协同创新中心成立]]></description>
+    </item>
+    <item>
+      <title>智芯半导体完成低轨卫星数传模块电力采集场景试点应用</title>
+      <link>https://news.bjx.com.cn/html/20261112/1519836.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261112/1519836.shtml</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[智芯半导体完成低轨卫星数传模块电力采集场景试点应用]]></description>
+    </item>
     <item>
       <title>配网光缆缠绕机器人在浙江嘉善完成跨河跨线路实战验证</title>
       <link>https://news.bjx.com.cn/html/20261111/1519820.shtml</link>
@@ -83,14 +147,6 @@
       <description><![CDATA[南网数字集团与许继电气共同出资新设合营企业 从事继电保护装置、柔直换流阀等业务]]></description>
     </item>
     <item>
-      <title>四川首个10千伏线路级末端保供型微电网投运</title>
-      <link>https://news.bjx.com.cn/html/20261111/1519678.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519678.shtml</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[四川首个10千伏线路级末端保供型微电网投运]]></description>
-    </item>
-    <item>
       <title>河南省发改委印发实施新型电网建设实施方案</title>
       <link>https://news.bjx.com.cn/html/20261111/1519814.shtml</link>
       <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519814.shtml</guid>
@@ -99,28 +155,12 @@
       <description><![CDATA[河南省发改委印发实施新型电网建设实施方案]]></description>
     </item>
     <item>
-      <title>​向新，向智，向海！青岛正在建设一张怎样的电网？</title>
-      <link>https://news.bjx.com.cn/html/20261111/1519682.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519682.shtml</guid>
+      <title>四川首个10千伏线路级末端保供型微电网投运</title>
+      <link>https://news.bjx.com.cn/html/20261111/1519678.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519678.shtml</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[​向新，向智，向海！青岛正在建设一张怎样的电网？]]></description>
-    </item>
-    <item>
-      <title>温州洞头区2026年迎峰度冬有序用电工作方案公示</title>
-      <link>https://news.bjx.com.cn/html/20261111/1519699.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519699.shtml</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[温州洞头区2026年迎峰度冬有序用电工作方案公示]]></description>
-    </item>
-    <item>
-      <title>国网浙江宁波供电公司加速建设新型电网，助力“六张网”协同融合</title>
-      <link>https://news.bjx.com.cn/html/20261111/1519676.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519676.shtml</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[国网浙江宁波供电公司加速建设新型电网，助力“六张网”协同融合]]></description>
+      <description><![CDATA[四川首个10千伏线路级末端保供型微电网投运]]></description>
     </item>
     <item>
       <title>湖南两部门发文：2028年建成供电质量三方协同治理体系</title>
@@ -139,12 +179,28 @@
       <description><![CDATA[山西省能源局公示第二批首台（套）重大技术装备 13项装备拟入选]]></description>
     </item>
     <item>
+      <title>温州洞头区2026年迎峰度冬有序用电工作方案公示</title>
+      <link>https://news.bjx.com.cn/html/20261111/1519699.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519699.shtml</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[温州洞头区2026年迎峰度冬有序用电工作方案公示]]></description>
+    </item>
+    <item>
       <title>安徽滁州凤阳清退超合理建设周期未开工分布式光伏项目公示</title>
       <link>https://news.bjx.com.cn/html/20261111/1519805.shtml</link>
       <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519805.shtml</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[安徽滁州凤阳清退超合理建设周期未开工分布式光伏项目公示]]></description>
+    </item>
+    <item>
+      <title>​向新，向智，向海！青岛正在建设一张怎样的电网？</title>
+      <link>https://news.bjx.com.cn/html/20261111/1519682.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261111/1519682.shtml</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[​向新，向智，向海！青岛正在建设一张怎样的电网？]]></description>
     </item>
     <item>
       <title>绍兴冲刺万亿，电网怎么助攻？</title>
@@ -185,22 +241,6 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[《青海省光热发展“十五五”规划》：有效提升电网的顶峰供电与灵活调节水平]]></description>
-    </item>
-    <item>
-      <title>华中能源监管局开展皖鄂背靠背联网工程实施情况现场监管</title>
-      <link>https://news.bjx.com.cn/html/20261110/1519656.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261110/1519656.shtml</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[华中能源监管局开展皖鄂背靠背联网工程实施情况现场监管]]></description>
-    </item>
-    <item>
-      <title>浙江能源监管办加强供电质量提升经验交流互鉴</title>
-      <link>https://news.bjx.com.cn/html/20261110/1519633.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261110/1519633.shtml</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[浙江能源监管办加强供电质量提升经验交流互鉴]]></description>
     </item>
     <item>
       <title>浙江乐清印发《2026年乐清市迎峰度冬负荷管理工作方案》</title>
@@ -387,14 +427,6 @@
       <description><![CDATA[解锁“电力高速路”的柔性密码]]></description>
     </item>
     <item>
-      <title>滨海能源枢纽城市怎么建？这份重磅协议告诉你</title>
-      <link>https://news.bjx.com.cn/html/20261104/1518784.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261104/1518784.shtml</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[滨海能源枢纽城市怎么建？这份重磅协议告诉你]]></description>
-    </item>
-    <item>
       <title>如果量子“入职”电网，TA能做什么工作？</title>
       <link>https://news.bjx.com.cn/html/20261030/1518364.shtml</link>
       <guid isPermaLink="false">https://news.bjx.com.cn/html/20261030/1518364.shtml</guid>
@@ -457,38 +489,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[定频构网及有功控制技术首次在边远牧区微电网应用]]></description>
-    </item>
-    <item>
-      <title>我国高压电缆附件用硅橡胶材料自主化取得重要突破</title>
-      <link>https://news.bjx.com.cn/html/20260915/1512729.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260915/1512729.shtml</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[我国高压电缆附件用硅橡胶材料自主化取得重要突破]]></description>
-    </item>
-    <item>
-      <title>宁夏750千伏星塘变电站1号主变压器高压试验完成</title>
-      <link>https://news.bjx.com.cn/html/20260907/1511541.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260907/1511541.shtml</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[宁夏750千伏星塘变电站1号主变压器高压试验完成]]></description>
-    </item>
-    <item>
-      <title>国网江苏电科院一项移相器技术获美国发明专利授权</title>
-      <link>https://news.bjx.com.cn/html/20260827/1510393.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260827/1510393.shtml</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[国网江苏电科院一项移相器技术获美国发明专利授权]]></description>
-    </item>
-    <item>
-      <title>中电联发布《中国电力行业年度发展报告2026》</title>
-      <link>https://news.bjx.com.cn/html/20260715/1504254.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20260715/1504254.shtml</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[中电联发布《中国电力行业年度发展报告2026》]]></description>
     </item>
   </channel>
 </rss>
