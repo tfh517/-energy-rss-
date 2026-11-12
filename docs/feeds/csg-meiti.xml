@@ -5,11 +5,27 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>人民日报、央视、新华社等媒体对南方电网的报道汇总。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-meiti.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>中国电力报：国家电网、南方电网持续优化用电营商环境</title>
+      <link>https://mp.weixin.qq.com/s/jG1Bs_LoFDi2vY5LWIlk8Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jG1Bs_LoFDi2vY5LWIlk8Q</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[中国电力报：国家电网、南方电网持续优化用电营商环境]]></description>
+    </item>
+    <item>
+      <title>中国电力报：深圳，更来电！“灯火里的中国欣欣向荣”·走进现代化用电营商环境一流城市</title>
+      <link>https://mp.weixin.qq.com/s/HLBze3KOMf9vELer7uy-WQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HLBze3KOMf9vELer7uy-WQ</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[中国电力报：深圳，更来电！“灯火里的中国欣欣向荣”·走进现代化用电营商环境一流城市]]></description>
+    </item>
     <item>
       <title>新华社：财经聚焦｜从前三季度用电量看经济发展新动能</title>
       <link>https://h.xinhuaxmt.com/vh512/share/13346668?docid=13346668&amp;newstype=1001&amp;d=13528a2&amp;time=1793025275844</link>
@@ -153,22 +169,6 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[中国电力报：喜报集结！国庆假期，能源领域一批大国重器与重点工程迎来新突破]]></description>
-    </item>
-    <item>
-      <title>新华社：南方电网投入5万余人 保障国庆电力供应</title>
-      <link>https://h.xinhuaxmt.com/vh512/share/13316210?docid=13316210&amp;newstype=1001&amp;d=135288d</link>
-      <guid isPermaLink="false">https://h.xinhuaxmt.com/vh512/share/13316210?docid=13316210&amp;newstype=1001&amp;d=135288d</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[新华社：南方电网投入5万余人 保障国庆电力供应]]></description>
-    </item>
-    <item>
-      <title>中国电力报：南方电网投入5万余人 保障国庆电力供应</title>
-      <link>https://mp.weixin.qq.com/s/i8hVutYNqEROq7OrZidMuw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/i8hVutYNqEROq7OrZidMuw</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[中国电力报：南方电网投入5万余人 保障国庆电力供应]]></description>
     </item>
   </channel>
 </rss>
