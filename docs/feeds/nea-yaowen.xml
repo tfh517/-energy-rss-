@@ -5,11 +5,51 @@
     <link>https://www.nea.gov.cn/xwzx/nyyw.htm</link>
     <description>国家能源局「能源要闻」, 条目自带摘要, 适合快速浏览。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:22:01 +0800</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 14:22:01 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:08:07 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 14:08:07 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-yaowen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>超越煤电，光伏成为我国装机第一大电源</title>
+      <link>https://www.nea.gov.cn/20261113/3d971f78f23d452eac032b41bf2acd5f/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261113/3d971f78f23d452eac032b41bf2acd5f/c.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:08:07 +0800</pubDate>
+      <dc:creator>杨涵</dc:creator>
+      <description><![CDATA["…………站上新台阶，中国光伏的未来，有挑战有机遇。"]]></description>
+    </item>
+    <item>
+      <title>中国单体最大功率飞轮储能项目投运</title>
+      <link>https://www.nea.gov.cn/20261113/549fe5df188a427690282ef70ea99204/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261113/549fe5df188a427690282ef70ea99204/c.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:07:35 +0800</pubDate>
+      <dc:creator>杨涵</dc:creator>
+      <description><![CDATA[此次并网运行的飞轮储能项目创新采用“5兆瓦大功率飞轮+0.5兆瓦惯量飞轮”协同模式。]]></description>
+    </item>
+    <item>
+      <title>碳减排背后：绿色能源与产业发展双向赋能</title>
+      <link>https://www.nea.gov.cn/20261113/fa43f7bc20d147c18523651db3e31255/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261113/fa43f7bc20d147c18523651db3e31255/c.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:07:21 +0800</pubDate>
+      <dc:creator>杨涵</dc:creator>
+      <description><![CDATA[随着波动性新能源快速发展并逐步成为电力系统主体，能源转型面临新的挑战，对系统调节和安全保障能力提出了更高要求。]]></description>
+    </item>
+    <item>
+      <title>海上风电技术加快向深远海拓展</title>
+      <link>https://www.nea.gov.cn/20261113/4516b2191ce44618966046dbfbb6900f/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261113/4516b2191ce44618966046dbfbb6900f/c.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:07:06 +0800</pubDate>
+      <dc:creator>杨涵</dc:creator>
+      <description><![CDATA[与此同时，公司正在研制25兆瓦漂浮式风电机组，进一步开展大容量漂浮式装备技术探索。]]></description>
+    </item>
+    <item>
+      <title>中国石油长庆油田：“三低”上的高质量答卷</title>
+      <link>https://www.nea.gov.cn/20261113/b46286b1311b4138970a94d17c6895b2/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261113/b46286b1311b4138970a94d17c6895b2/c.html</guid>
+      <pubDate>Fri, 13 Nov 2026 14:05:54 +0800</pubDate>
+      <dc:creator>杨涵</dc:creator>
+      <description><![CDATA["从国际认定的开发禁区，到全国产量首位的能源标杆；从低效难动用“三低”储层，到6000万吨级稳产主力油田。"]]></description>
+    </item>
     <item>
       <title>新疆新型储能装机规模突破2500万千瓦</title>
       <link>https://www.nea.gov.cn/20261106/f7168ccb1ffa4bcab1b09a32fe7385b5/c.html</link>
@@ -449,46 +489,6 @@
       <pubDate>Fri, 21 Aug 2026 17:37:04 +0800</pubDate>
       <dc:creator>李晏</dc:creator>
       <description><![CDATA["张健介绍，在政策、市场双重驱动下，我国新型储能产业在“十四五”时期实现了从商业化应用初期到规模化发展阶段的跨越，截至2025年底，全国新型储能累计装机规模约占全球50%，已超过抽水蓄能成为第一大调节性资源。"]]></description>
-    </item>
-    <item>
-      <title>虚拟电厂：让绿电“发得出”又“用得好”</title>
-      <link>https://www.nea.gov.cn/20260817/10ef4d7abc264738ba1dbd868863cd72/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20260817/10ef4d7abc264738ba1dbd868863cd72/c.html</guid>
-      <pubDate>Mon, 17 Aug 2026 15:02:49 +0800</pubDate>
-      <dc:creator>普韵乔</dc:creator>
-      <description><![CDATA["浙江同时开展了虚拟电厂调峰和调频辅助服务市场，市场机制更为完备。"]]></description>
-    </item>
-    <item>
-      <title>亚洲首个柔直海上风电项目累计发电量破百亿千瓦时</title>
-      <link>https://www.nea.gov.cn/20260817/f183aa293e3f4d94aa9a8b0195fa7f2b/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20260817/f183aa293e3f4d94aa9a8b0195fa7f2b/c.html</guid>
-      <pubDate>Mon, 17 Aug 2026 15:02:36 +0800</pubDate>
-      <dc:creator>普韵乔</dc:creator>
-      <description><![CDATA["这为我国大容量、远距离海上风电柔性直流输电技术的规模化应用提供了实践验证。"]]></description>
-    </item>
-    <item>
-      <title>核电工程建设稳步推进 总装机规模居世界第一</title>
-      <link>https://www.nea.gov.cn/20260817/3973781b3ea44626849f496128b73857/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20260817/3973781b3ea44626849f496128b73857/c.html</guid>
-      <pubDate>Mon, 17 Aug 2026 15:02:16 +0800</pubDate>
-      <dc:creator>普韵乔</dc:creator>
-      <description><![CDATA[" 不只是海阳核电项目，目前，我国核准在建核电机组达到57台，在建规模占到全球一半以上。"]]></description>
-    </item>
-    <item>
-      <title>“十五五”开局我国投产的首条千万吨级输油管道</title>
-      <link>https://www.nea.gov.cn/20260817/e5b33fb98c4d492c8fef83e3958741dd/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20260817/e5b33fb98c4d492c8fef83e3958741dd/c.html</guid>
-      <pubDate>Mon, 17 Aug 2026 15:02:04 +0800</pubDate>
-      <dc:creator>普韵乔</dc:creator>
-      <description><![CDATA["8月13日，国家石油天然气基础设施重点项目——连云港至仪征原油管道工程连云港至淮安段（以下简称连仪管道连淮段）投产一次成功。"]]></description>
-    </item>
-    <item>
-      <title>新型电力系统建设明确施工图</title>
-      <link>https://www.nea.gov.cn/20260817/43f478dfe4724af583286b61f36dfa04/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20260817/43f478dfe4724af583286b61f36dfa04/c.html</guid>
-      <pubDate>Mon, 17 Aug 2026 15:01:44 +0800</pubDate>
-      <dc:creator>普韵乔</dc:creator>
-      <description><![CDATA["《规划》将“促进电热、电氢等协同联动”作为促进电力与相关领域协同融合发展的重点任务，核心是发挥不同能源形态在转换、储存和利用环节的互补优势，进一步拓展调节资源类型、新能源消纳空间和绿色替代路径。"]]></description>
     </item>
   </channel>
 </rss>
