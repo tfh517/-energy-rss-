@@ -5,11 +5,18 @@
     <link>https://www.nea.gov.cn/policy/tz.htm</link>
     <description>国家能源局「通知」栏目, 含行业标准制修订计划等文件。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:17:55 +0800</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 15:17:55 +0800</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:35:25 +0800</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 16:35:25 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-tongzhi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国家能源局综合司关于公示地热能高质量开发利用试点名单的通知</title>
+      <link>http://www.nea.gov.cn/20261116/3b255c14a250476faa893612d435a6a1/c.html</link>
+      <guid isPermaLink="false">http://www.nea.gov.cn/20261116/3b255c14a250476faa893612d435a6a1/c.html</guid>
+      <pubDate>Mon, 16 Nov 2026 16:35:25 +0800</pubDate>
+      <description><![CDATA[国家能源局综合司关于公示地热能高质量开发利用试点名单的通知]]></description>
+    </item>
     <item>
       <title>关于印发《“十五五”新型储能实施方案》的通知</title>
       <link>https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html</link>
@@ -433,14 +440,6 @@
       <guid isPermaLink="false">http://www.nea.gov.cn/20251112/79210278a3184efea9ccf2d546fdf1b7/c.html</guid>
       <pubDate>Wed, 12 Nov 2025 15:00:00 +0800</pubDate>
       <description><![CDATA[国家能源局关于促进新能源集成融合发展的指导意见]]></description>
-    </item>
-    <item>
-      <title>国家能源局综合司关于公布全国电力可靠性管理专家库增补入库专家名单的通知</title>
-      <link>https://www.nea.gov.cn/20251111/01bcfdc1045443c282976f7c5bd683a0/c.html</link>
-      <guid isPermaLink="false">https://www.nea.gov.cn/20251111/01bcfdc1045443c282976f7c5bd683a0/c.html</guid>
-      <pubDate>Tue, 11 Nov 2025 16:26:15 +0800</pubDate>
-      <dc:creator>李晏</dc:creator>
-      <description><![CDATA[国家能源局派出机构和电力企业因工作需要，可从增补后的电力可靠性管理专家库中选取有关专家。]]></description>
     </item>
   </channel>
 </rss>
