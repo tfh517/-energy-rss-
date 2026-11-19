@@ -5,11 +5,19 @@
     <link>https://www.nea.gov.cn/policy/gg.htm</link>
     <description>国家能源局「公告」栏目, 含新能源建档立卡、数据发布等。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:06:52 +0800</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 15:06:52 +0800</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:55:34 +0800</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 08:55:34 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-gonggao.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>中国虚拟电厂发展报告（2026）</title>
+      <link>https://www.nea.gov.cn/20261119/69c5995084014969b750007706cbd39d/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261119/69c5995084014969b750007706cbd39d/c.html</guid>
+      <pubDate>Thu, 19 Nov 2026 08:55:34 +0800</pubDate>
+      <dc:creator>韩建平</dc:creator>
+      <description><![CDATA["中国虚拟电厂发展报告（2026）点击下载：《中国虚拟电厂发展报告（2026）》。"]]></description>
+    </item>
     <item>
       <title>国家能源局公告 2026年第5号</title>
       <link>https://www.nea.gov.cn/20261102/af04409304d44bfb89c9880f55b70dff/c.html</link>
@@ -446,13 +454,6 @@
       <guid isPermaLink="false">http://www.nea.gov.cn/20250710/1290d9b2a51f4edd8f8bc56e031cc70b/c.html</guid>
       <pubDate>Thu, 10 Jul 2025 17:46:48 +0800</pubDate>
       <description><![CDATA[国家能源局公告 2025年第3号]]></description>
-    </item>
-    <item>
-      <title>关于公开征集中国亚太经合组织合作基金项目承担单位的公告</title>
-      <link>http://www.nea.gov.cn/20250709/f010c1d4c2d648c09a6011f835a28d5a/c.html</link>
-      <guid isPermaLink="false">http://www.nea.gov.cn/20250709/f010c1d4c2d648c09a6011f835a28d5a/c.html</guid>
-      <pubDate>Wed, 09 Jul 2025 19:22:55 +0800</pubDate>
-      <description><![CDATA[关于公开征集中国亚太经合组织合作基金项目承担单位的公告]]></description>
     </item>
   </channel>
 </rss>
