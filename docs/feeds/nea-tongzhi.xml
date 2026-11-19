@@ -5,11 +5,19 @@
     <link>https://www.nea.gov.cn/policy/tz.htm</link>
     <description>国家能源局「通知」栏目, 含行业标准制修订计划等文件。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:35:25 +0800</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 16:35:25 +0800</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:11:21 +0800</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 18:11:21 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/nea-tongzhi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国家能源局关于加快推动流域水风光一体化发展的指导意见</title>
+      <link>https://www.nea.gov.cn/20261118/86aabd24d92d4eeb93dafb535f819650/c.html</link>
+      <guid isPermaLink="false">https://www.nea.gov.cn/20261118/86aabd24d92d4eeb93dafb535f819650/c.html</guid>
+      <pubDate>Wed, 18 Nov 2026 18:11:21 +0800</pubDate>
+      <dc:creator>普韵乔</dc:creator>
+      <description><![CDATA[（二）积极发展流域水风光一体化项目。]]></description>
+    </item>
     <item>
       <title>国家能源局综合司关于公示地热能高质量开发利用试点名单的通知</title>
       <link>http://www.nea.gov.cn/20261116/3b255c14a250476faa893612d435a6a1/c.html</link>
@@ -433,13 +441,6 @@
       <guid isPermaLink="false">http://www.nea.gov.cn/20251113/cc1fb0298a2944f8bd5441f67c9be9b3/c.html</guid>
       <pubDate>Thu, 13 Nov 2025 11:00:55 +0800</pubDate>
       <description><![CDATA[国家能源局关于印发2024年度全国可再生能源电力发展监测评价结果的通知]]></description>
-    </item>
-    <item>
-      <title>国家能源局关于促进新能源集成融合发展的指导意见</title>
-      <link>http://www.nea.gov.cn/20251112/79210278a3184efea9ccf2d546fdf1b7/c.html</link>
-      <guid isPermaLink="false">http://www.nea.gov.cn/20251112/79210278a3184efea9ccf2d546fdf1b7/c.html</guid>
-      <pubDate>Wed, 12 Nov 2025 15:00:00 +0800</pubDate>
-      <description><![CDATA[国家能源局关于促进新能源集成融合发展的指导意见]]></description>
     </item>
   </channel>
 </rss>
