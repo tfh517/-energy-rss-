@@ -5,11 +5,19 @@
     <link>https://www.bjx.com.cn/</link>
     <description>北极星首页当日要闻汇总。条目多、更新快, 适合当行业雷达。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/bjx-yaowen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>瑞浦兰钧Powtrix® 3.0 6.26MWh储能集装箱大规模火烧测试顺利通过</title>
+      <link>https://news.bjx.com.cn/html/20261121/1521084.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261121/1521084.shtml</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[瑞浦兰钧Powtrix® 3.0 6.26MWh储能集装箱大规模火烧测试顺利通过]]></description>
+    </item>
     <item>
       <title>新一代百万千瓦清洁煤电示范工程投产</title>
       <link>https://news.bjx.com.cn/html/20261120/1520964.shtml</link>
@@ -195,14 +203,6 @@
       <description><![CDATA[再添市级名片！易事特成功通过东莞市市级工业设计中心认定]]></description>
     </item>
     <item>
-      <title>福特汽车首批LFP电芯交付 技术来自中国</title>
-      <link>https://news.bjx.com.cn/html/20261120/1521011.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261120/1521011.shtml</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[福特汽车首批LFP电芯交付 技术来自中国]]></description>
-    </item>
-    <item>
       <title>万华×兴发40亿落子磷矿！</title>
       <link>https://news.bjx.com.cn/html/20261120/1521064.shtml</link>
       <guid isPermaLink="false">https://news.bjx.com.cn/html/20261120/1521064.shtml</guid>
@@ -217,6 +217,14 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[斯莱克子公司与宁德时代签署电池壳体供应协议]]></description>
+    </item>
+    <item>
+      <title>福特汽车首批LFP电芯交付 技术来自中国</title>
+      <link>https://news.bjx.com.cn/html/20261120/1521011.shtml</link>
+      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261120/1521011.shtml</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>北极星电力网</dc:creator>
+      <description><![CDATA[福特汽车首批LFP电芯交付 技术来自中国]]></description>
     </item>
     <item>
       <title>电解液保供摸到上游，宁德时代、亿纬锁单原料</title>
@@ -481,14 +489,6 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
       <dc:creator>北极星电力网</dc:creator>
       <description><![CDATA[中国能建调试的可克达拉350兆瓦调试项目2号机组完成满负荷试运]]></description>
-    </item>
-    <item>
-      <title>内蒙古电力（集团）有限责任公司原党委书记、董事长张海峰被开除党籍和公职</title>
-      <link>https://news.bjx.com.cn/html/20261120/1520952.shtml</link>
-      <guid isPermaLink="false">https://news.bjx.com.cn/html/20261120/1520952.shtml</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>北极星电力网</dc:creator>
-      <description><![CDATA[内蒙古电力（集团）有限责任公司原党委书记、董事长张海峰被开除党籍和公职]]></description>
     </item>
   </channel>
 </rss>
