@@ -5,11 +5,35 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>人民日报、央视、新华社等媒体对南方电网的报道汇总。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-meiti.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>人民日报：把经验翻译成电力求解器听得懂的语言（我身边的最强大脑）</title>
+      <link>https://www.peopleapp.com/column/30053614573-500007797993</link>
+      <guid isPermaLink="false">https://www.peopleapp.com/column/30053614573-500007797993</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[人民日报：把经验翻译成电力求解器听得懂的语言（我身边的最强大脑）]]></description>
+    </item>
+    <item>
+      <title>新华社：贵州电网多措并举筑牢今冬明春防冰保供防线</title>
+      <link>https://h.xinhuaxmt.com/vh512/share/13388694?docid=13388694&amp;newstype=1001&amp;d=1352904&amp;channel=weixin&amp;time=1795481670650</link>
+      <guid isPermaLink="false">https://h.xinhuaxmt.com/vh512/share/13388694?docid=13388694&amp;newstype=1001&amp;d=1352904&amp;channel=weixin&amp;time=1795481670650</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[新华社：贵州电网多措并举筑牢今冬明春防冰保供防线]]></description>
+    </item>
+    <item>
+      <title>央视：前10个月全社会用电量同比增长3.7% 算力用电高速增长 数字经济蓬勃发展</title>
+      <link>https://app.cctv.com/special/m/livevod/index.html?vtype=2&amp;guid=c37bc1837f004b2fb7df3c1a9a2c5c09&amp;vsetId=C10598</link>
+      <guid isPermaLink="false">https://app.cctv.com/special/m/livevod/index.html?vtype=2&amp;guid=c37bc1837f004b2fb7df3c1a9a2c5c09&amp;vsetId=C10598</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[央视：前10个月全社会用电量同比增长3.7% 算力用电高速增长 数字经济蓬勃发展]]></description>
+    </item>
     <item>
       <title>央视：APEC会议实现全场景100%绿电供应</title>
       <link>https://mp.weixin.qq.com/s/n_9iOfytxsBpBiR8uUst4Q</link>
@@ -145,30 +169,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[央视：高速公路新能源汽车充电量持续攀升 补能效率更高 大功率充电桩让充电更快]]></description>
-    </item>
-    <item>
-      <title>人民日报：优化电力保障 服务产业发展</title>
-      <link>https://www.peopleapp.com/column/30053320451-500007735469</link>
-      <guid isPermaLink="false">https://www.peopleapp.com/column/30053320451-500007735469</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[人民日报：优化电力保障 服务产业发展]]></description>
-    </item>
-    <item>
-      <title>人民日报：国庆假期，能源、交通等多个领域建设取得进展 一批重大工程刷新“进度条”</title>
-      <link>http://finance.people.com.cn/n1/2026/1008/c1004-40810290.html</link>
-      <guid isPermaLink="false">http://finance.people.com.cn/n1/2026/1008/c1004-40810290.html</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[人民日报：国庆假期，能源、交通等多个领域建设取得进展 一批重大工程刷新“进度条”]]></description>
-    </item>
-    <item>
-      <title>人民日报：一增一降里的新能源汽车充电新趋势（新场景里看活力）</title>
-      <link>http://finance.people.com.cn/n1/2026/1008/c1004-40810276.html</link>
-      <guid isPermaLink="false">http://finance.people.com.cn/n1/2026/1008/c1004-40810276.html</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[人民日报：一增一降里的新能源汽车充电新趋势（新场景里看活力）]]></description>
     </item>
   </channel>
 </rss>
