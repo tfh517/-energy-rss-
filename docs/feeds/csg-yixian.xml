@@ -5,11 +5,19 @@
     <link>https://www.csg.cn/xwzx/</link>
     <description>南方电网官网「一线传真」, 偏基层、工程现场与具体实践。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
     <generator>energy-rss</generator>
     <ttl>60</ttl>
     <atom:link href="https://tfh517.github.io/-energy-rss-/feeds/csg-yixian.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>以盛会之窗 展中国电力实力 ——南方电网公司圆满完成APEC会议保供电任务背后</title>
+      <link>https://www.csg.cn/xwzx/2026/2026yxcz/202611/t20261124_359026.html</link>
+      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026yxcz/202611/t20261124_359026.html</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+      <dc:creator>南方电网</dc:creator>
+      <description><![CDATA[以盛会之窗 展中国电力实力 ——南方电网公司圆满完成APEC会议保供电任务背后]]></description>
+    </item>
     <item>
       <title>保供电 迎寒潮</title>
       <link>https://www.csg.cn/xwzx/2026/2026yxcz/202611/t20261122_358864.html</link>
@@ -161,14 +169,6 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
       <dc:creator>南方电网</dc:creator>
       <description><![CDATA[云南电网迪庆供电局 高海拔区域首用全自主机器人带电搭火]]></description>
-    </item>
-    <item>
-      <title>贵州电网贵阳供电局 122座变电站转入单轨巡视效率提升6倍</title>
-      <link>https://www.csg.cn/xwzx/2026/2026yxcz/202611/t20261112_358310.html</link>
-      <guid isPermaLink="false">https://www.csg.cn/xwzx/2026/2026yxcz/202611/t20261112_358310.html</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <dc:creator>南方电网</dc:creator>
-      <description><![CDATA[贵州电网贵阳供电局 122座变电站转入单轨巡视效率提升6倍]]></description>
     </item>
   </channel>
 </rss>
